@@ -106,7 +106,11 @@ def getAccuracy(args):
 if __name__ == "__main__":
     datasets = ["Ravdess","German","Persian","Italian","Bangla"]
     BaseLanguages = [i+"_" for i in datasets]
-    send_to_telegram("Started for languages\n"+("\n").join(datasets))
+    send_to_telegram(f"Process id {os.getpid()}"+"\nStarted for languages\n"+("\n").join(datasets))
+    required_directories = ["models","confusion_matrix","classification_report"]
+    for dir in required_directories:
+        if not os.path.exists(dir):
+            os.mkdir(dir)
     for BaseLanguage in BaseLanguages:
         try:
             extensions = [f"pca{i}.csv" for i in [10,20,30,40,50]]
@@ -129,7 +133,7 @@ if __name__ == "__main__":
             plt.title("SVC Base Confusion Matrix")
             plt.savefig(os.path.join("confusion_matrix",BaseLanguage+"svc_base.png"))
             svc_clf = classification_report(y_test, svc_pred, output_dict=True)
-            pd.DataFrame(report).transpose().to_csv(os.path.join("classification_report",BaseLanguage+"svc_base.csv"))
+            pd.DataFrame(svc_clf).transpose().to_csv(os.path.join("classification_report",BaseLanguage+"svc_base.csv"))
             save_model(svc_search, 0, "svc",BaseLanguage)
             print(f"Base SVC score: {svc_score}")
             f.write(f"Base SVC score: {svc_score}"+"\n")
@@ -146,7 +150,7 @@ if __name__ == "__main__":
             plt.title("RF Base Confusion Matrix")
             plt.savefig(os.path.join("confusion_matrix",BaseLanguage+"rf_base.png"))
             rf_clf = classification_report(y_test, rf_pred,output_dict=True)
-            pd.DataFrame(report).transpose().to_csv(os.path.join("classification_report",BaseLanguage+"rf_base.csv"))
+            pd.DataFrame(rf_clf).transpose().to_csv(os.path.join("classification_report",BaseLanguage+"rf_base.csv"))
             save_model(rf_search, 0, "rf",BaseLanguage)
             print(f"Base RF score: {rf_score}")
             f.write(f"Base RF score: {rf_score}"+"\n")
@@ -160,7 +164,7 @@ if __name__ == "__main__":
             plt.title("Voting Base Confusion Matrix")
             plt.savefig(os.path.join("confusion_matrix",BaseLanguage+"voting_base.png"))
             voting_clf = classification_report(y_test, voting_pred)
-            pd.DataFrame(report).transpose().to_csv(os.path.join("classification_report",BaseLanguage+"voting_base.csv"))
+            pd.DataFrame(voting_clf).transpose().to_csv(os.path.join("classification_report",BaseLanguage+"voting_base.csv"))
             save_model(votingclf, 0, "voting",BaseLanguage)
             print(f"Base Voting score: {voting_score}")
             f.write(f"Base Voting score: {voting_score}"+"\n")
