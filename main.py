@@ -163,7 +163,7 @@ if __name__ == "__main__":
             plt.ylabel("Actual")
             plt.title("Voting Base Confusion Matrix")
             plt.savefig(os.path.join("confusion_matrix",BaseLanguage+"voting_base.png"))
-            voting_clf = classification_report(y_test, voting_pred)
+            voting_clf = classification_report(y_test, voting_pred,output_dict=True)
             pd.DataFrame(voting_clf).transpose().to_csv(os.path.join("classification_report",BaseLanguage+"voting_base.csv"))
             save_model(votingclf, 0, "voting",BaseLanguage)
             print(f"Base Voting score: {voting_score}")
