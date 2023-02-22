@@ -1,101 +1,69 @@
-{"ok":true,"result":{"message_id":19468,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044077,"text":"Process id 3945\nStarted for languages\nRavdess\nGerman\nPersian\nItalian\nBangla"}}
+{"ok":true,"result":{"message_id":19530,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677050033,"text":"Process id 6042\nStarted for languages\nRavdess\nGerman\nPersian\nItalian\nBangla"}}
 Fitting 5 folds for each of 12 candidates, totalling 60 fits
 Base SVC score: 0.6770833333333334
 Fitting 5 folds for each of 12 candidates, totalling 60 fits
-Base RF score: 0.5798611111111112
-Base Voting score: 0.6909722222222222
-{"ok":true,"result":{"message_id":19469,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044146,"text":"Base Done for Ravdess_ with 0.6909722222222222"}}
+Base RF score: 0.5729166666666666
+Base Voting score: 0.6736111111111112
+{"ok":true,"result":{"message_id":19531,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677050098,"text":"Base Done for Ravdess_ with 0.6736111111111112"}}
 Processing the PCA models
 20 SVC score 0.6354166666666666
-20 RF score 0.5208333333333334
-20 voting score 0.6701388888888888
-{"ok":true,"result":{"message_id":19472,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044150,"text":"Ravdess_ 20 done with 0.6701388888888888"}}
+20 RF score 0.5416666666666666
+20 voting score 0.6388888888888888
+{"ok":true,"result":{"message_id":19534,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677050100,"text":"Ravdess_ 20 done with 0.6388888888888888"}}
 40 SVC score 0.6631944444444444
-40 RF score 0.5138888888888888
-40 voting score 0.6875
-{"ok":true,"result":{"message_id":19476,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044156,"text":"Ravdess_ 40 done with 0.6875"}}
+40 RF score 0.5208333333333334
+40 voting score 0.6736111111111112
+{"ok":true,"result":{"message_id":19538,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677050102,"text":"Ravdess_ 40 done with 0.6736111111111112"}}
 25 SVC score 0.71875
-25 RF score 0.5138888888888888
-25 voting score 0.7465277777777778
-{"ok":true,"result":{"message_id":19473,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044150,"text":"Ravdess_ 25 done with 0.7465277777777778"}}
+25 RF score 0.5416666666666666
+25 voting score 0.7291666666666666
+{"ok":true,"result":{"message_id":19535,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677050100,"text":"Ravdess_ 25 done with 0.7291666666666666"}}
 45 SVC score 0.6597222222222222
-45 RF score 0.4722222222222222
-45 voting score 0.6909722222222222
-{"ok":true,"result":{"message_id":19477,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044156,"text":"Ravdess_ 45 done with 0.6909722222222222"}}
+45 RF score 0.46875
+45 voting score 0.6875
+{"ok":true,"result":{"message_id":19539,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677050102,"text":"Ravdess_ 45 done with 0.6875"}}
 10 SVC score 0.5451388888888888
-10 RF score 0.4513888888888889
-10 voting score 0.5347222222222222
-{"ok":true,"result":{"message_id":19470,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044150,"text":"Ravdess_ 10 done with 0.5347222222222222"}}
+10 RF score 0.4618055555555556
+10 voting score 0.5173611111111112
+{"ok":true,"result":{"message_id":19532,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677050100,"text":"Ravdess_ 10 done with 0.5173611111111112","entities":[]}}
 30 SVC score 0.6909722222222222
-30 RF score 0.5625
-30 voting score 0.7256944444444444
-{"ok":true,"result":{"message_id":19474,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044155,"text":"Ravdess_ 30 done with 0.7256944444444444"}}
+30 RF score 0.5347222222222222
+30 voting score 0.71875
+{"ok":true,"result":{"message_id":19536,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677050102,"text":"Ravdess_ 30 done with 0.71875"}}
 50 SVC score 0.6736111111111112
-50 RF score 0.4895833333333333
-50 voting score 0.6875
-{"ok":true,"result":{"message_id":19478,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044160,"text":"Ravdess_ 50 done with 0.6875"}}
+50 RF score 0.4652777777777778
+50 voting score 0.6840277777777778
+{"ok":true,"result":{"message_id":19540,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677050103,"text":"Ravdess_ 50 done with 0.6840277777777778"}}
 15 SVC score 0.6423611111111112
-15 RF score 0.5104166666666666
-15 voting score 0.6284722222222222
-{"ok":true,"result":{"message_id":19471,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044150,"text":"Ravdess_ 15 done with 0.6284722222222222"}}
+15 RF score 0.5
+15 voting score 0.5868055555555556
+{"ok":true,"result":{"message_id":19533,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677050100,"text":"Ravdess_ 15 done with 0.5868055555555556"}}
 35 SVC score 0.7013888888888888
-35 RF score 0.5486111111111112
-35 voting score 0.7013888888888888
-{"ok":true,"result":{"message_id":19475,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044155,"text":"Ravdess_ 35 done with 0.7013888888888888"}}
+35 RF score 0.5520833333333334
+35 voting score 0.6979166666666666
+{"ok":true,"result":{"message_id":19537,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677050102,"text":"Ravdess_ 35 done with 0.6979166666666666"}}
 52 SVC score 0.6840277777777778
-52 RF score 0.5277777777777778
-52 voting score 0.7083333333333334
-{"ok":true,"result":{"message_id":19479,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044160,"text":"Ravdess_ 52 done with 0.7083333333333334"}}
-PCA level: 10 SVC score: 0.5451388888888888 RF score: 0.4513888888888889 Voting score: 0.5347222222222222
-PCA level: 15 SVC score: 0.6423611111111112 RF score: 0.5104166666666666 Voting score: 0.6284722222222222
-PCA level: 20 SVC score: 0.6354166666666666 RF score: 0.5208333333333334 Voting score: 0.6701388888888888
-PCA level: 25 SVC score: 0.71875 RF score: 0.5138888888888888 Voting score: 0.7465277777777778
-PCA level: 30 SVC score: 0.6909722222222222 RF score: 0.5625 Voting score: 0.7256944444444444
-PCA level: 35 SVC score: 0.7013888888888888 RF score: 0.5486111111111112 Voting score: 0.7013888888888888
-PCA level: 40 SVC score: 0.6631944444444444 RF score: 0.5138888888888888 Voting score: 0.6875
-PCA level: 45 SVC score: 0.6597222222222222 RF score: 0.4722222222222222 Voting score: 0.6909722222222222
-PCA level: 50 SVC score: 0.6736111111111112 RF score: 0.4895833333333333 Voting score: 0.6875
-PCA level: 52 SVC score: 0.6840277777777778 RF score: 0.5277777777777778 Voting score: 0.7083333333333334
-{"ok":true,"result":{"message_id":19480,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044161,"text":"Ravdess_ done"}}
+52 RF score 0.5034722222222222
+52 voting score 0.6944444444444444
+{"ok":true,"result":{"message_id":19541,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677050103,"text":"Ravdess_ 52 done with 0.6944444444444444"}}
+PCA level: 10 SVC score: 0.5451388888888888 RF score: 0.4618055555555556 Voting score: 0.5173611111111112
+PCA level: 15 SVC score: 0.6423611111111112 RF score: 0.5 Voting score: 0.5868055555555556
+PCA level: 20 SVC score: 0.6354166666666666 RF score: 0.5416666666666666 Voting score: 0.6388888888888888
+PCA level: 25 SVC score: 0.71875 RF score: 0.5416666666666666 Voting score: 0.7291666666666666
+PCA level: 30 SVC score: 0.6909722222222222 RF score: 0.5347222222222222 Voting score: 0.71875
+PCA level: 35 SVC score: 0.7013888888888888 RF score: 0.5520833333333334 Voting score: 0.6979166666666666
+PCA level: 40 SVC score: 0.6631944444444444 RF score: 0.5208333333333334 Voting score: 0.6736111111111112
+PCA level: 45 SVC score: 0.6597222222222222 RF score: 0.46875 Voting score: 0.6875
+PCA level: 50 SVC score: 0.6736111111111112 RF score: 0.4652777777777778 Voting score: 0.6840277777777778
+PCA level: 52 SVC score: 0.6840277777777778 RF score: 0.5034722222222222 Voting score: 0.6944444444444444
+{"ok":true,"result":{"message_id":19542,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677050103,"text":"Ravdess_ done"}}
 Fitting 5 folds for each of 12 candidates, totalling 60 fits
 Base SVC score: 0.8504672897196262
 Fitting 5 folds for each of 12 candidates, totalling 60 fits
-Base RF score: 0.7383177570093458
-Base Voting score: 0.7289719626168224
-{"ok":true,"result":{"message_id":19481,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044166,"text":"Base Done for German_ with 0.7289719626168224"}}
+Base RF score: 0.6635514018691588
+Base Voting score: 0.719626168224299
+{"ok":true,"result":{"message_id":19543,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677050107,"text":"Base Done for German_ with 0.719626168224299"}}
 Processing the PCA models
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Recall and F-score are ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Recall and F-score are ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Recall and F-score are ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-15 SVC score 0.7757009345794392
-15 RF score 0.6915887850467289
-15 voting score 0.6728971962616822
-{"ok":true,"result":{"message_id":19484,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044171,"text":"German_ 15 done with 0.6728971962616822"}}
-40 SVC score 0.7663551401869159
-40 RF score 0.6635514018691588
-40 voting score 0.6448598130841121
-{"ok":true,"result":{"message_id":19488,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044176,"text":"German_ 40 done with 0.6448598130841121"}}
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Recall and F-score are ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Recall and F-score are ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Recall and F-score are ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
 /home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
   _warn_prf(average, modifier, msg_start, len(result))
 /home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Recall and F-score are ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
@@ -109,49 +77,21 @@ Processing the PCA models
 /home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Recall and F-score are ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
   _warn_prf(average, modifier, msg_start, len(result))
 20 SVC score 0.8598130841121495
-20 RF score 0.7102803738317757
-20 voting score 0.7102803738317757
-{"ok":true,"result":{"message_id":19485,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044171,"text":"German_ 20 done with 0.7102803738317757"}}
-45 SVC score 0.7570093457943925
-45 RF score 0.6635514018691588
-45 voting score 0.6822429906542056
-{"ok":true,"result":{"message_id":19489,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044176,"text":"German_ 45 done with 0.6822429906542056"}}
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Recall and F-score are ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Recall and F-score are ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Recall and F-score are ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Recall and F-score are ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Recall and F-score are ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Recall and F-score are ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
+20 RF score 0.6728971962616822
+20 voting score 0.7383177570093458
+{"ok":true,"result":{"message_id":19546,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677050108,"text":"German_ 20 done with 0.7383177570093458"}}
+40 SVC score 0.7663551401869159
+40 RF score 0.6074766355140186
+40 voting score 0.6355140186915887
+{"ok":true,"result":{"message_id":19550,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677050109,"text":"German_ 40 done with 0.6355140186915887"}}
 25 SVC score 0.8598130841121495
-25 RF score 0.7009345794392523
-25 voting score 0.7009345794392523
-{"ok":true,"result":{"message_id":19483,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044171,"text":"German_ 25 done with 0.7009345794392523"}}
-35 SVC score 0.794392523364486
-35 RF score 0.6635514018691588
-35 voting score 0.6728971962616822
-{"ok":true,"result":{"message_id":19486,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044176,"text":"German_ 35 done with 0.6728971962616822"}}
-50 SVC score 0.794392523364486
-50 RF score 0.616822429906542
-50 voting score 0.6915887850467289
-{"ok":true,"result":{"message_id":19490,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044180,"text":"German_ 50 done with 0.6915887850467289"}}
+25 RF score 0.616822429906542
+25 voting score 0.7102803738317757
+{"ok":true,"result":{"message_id":19547,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677050108,"text":"German_ 25 done with 0.7102803738317757"}}
+45 SVC score 0.7570093457943925
+45 RF score 0.6915887850467289
+45 voting score 0.6542056074766355
+{"ok":true,"result":{"message_id":19551,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677050109,"text":"German_ 45 done with 0.6542056074766355"}}
 /home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
   _warn_prf(average, modifier, msg_start, len(result))
 /home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Recall and F-score are ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
@@ -178,9 +118,15 @@ Processing the PCA models
   _warn_prf(average, modifier, msg_start, len(result))
 /home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
   _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Recall and F-score are ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
   _warn_prf(average, modifier, msg_start, len(result))
 /home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Recall and F-score are ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Recall and F-score are ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
   _warn_prf(average, modifier, msg_start, len(result))
 /home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
   _warn_prf(average, modifier, msg_start, len(result))
@@ -195,17 +141,17 @@ Processing the PCA models
 /home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Recall and F-score are ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
   _warn_prf(average, modifier, msg_start, len(result))
 10 SVC score 0.6448598130841121
-10 RF score 0.6355140186915887
-10 voting score 0.5700934579439252
-{"ok":true,"result":{"message_id":19482,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044171,"text":"German_ 10 done with 0.5700934579439252"}}
+10 RF score 0.5981308411214953
+10 voting score 0.5420560747663551
+{"ok":true,"result":{"message_id":19544,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677050108,"text":"German_ 10 done with 0.5420560747663551","entities":[]}}
 30 SVC score 0.8317757009345794
-30 RF score 0.6542056074766355
-30 voting score 0.6822429906542056
-{"ok":true,"result":{"message_id":19487,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044176,"text":"German_ 30 done with 0.6822429906542056"}}
-52 SVC score 0.8130841121495327
-52 RF score 0.5794392523364486
-52 voting score 0.6822429906542056
-{"ok":true,"result":{"message_id":19491,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044180,"text":"German_ 52 done with 0.6822429906542056"}}
+30 RF score 0.6635514018691588
+30 voting score 0.7102803738317757
+{"ok":true,"result":{"message_id":19548,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677050109,"text":"German_ 30 done with 0.7102803738317757"}}
+50 SVC score 0.794392523364486
+50 RF score 0.5794392523364486
+50 voting score 0.6915887850467289
+{"ok":true,"result":{"message_id":19552,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677050109,"text":"German_ 50 done with 0.6915887850467289"}}
 /home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
   _warn_prf(average, modifier, msg_start, len(result))
 /home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Recall and F-score are ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
@@ -232,12 +178,6 @@ Processing the PCA models
   _warn_prf(average, modifier, msg_start, len(result))
 /home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
   _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
 /home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Recall and F-score are ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
   _warn_prf(average, modifier, msg_start, len(result))
 /home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
@@ -248,23 +188,23 @@ Processing the PCA models
   _warn_prf(average, modifier, msg_start, len(result))
 /home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Recall and F-score are ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
   _warn_prf(average, modifier, msg_start, len(result))
-PCA level: 10 SVC score: 0.6448598130841121 RF score: 0.6355140186915887 Voting score: 0.5700934579439252
-PCA level: 15 SVC score: 0.7757009345794392 RF score: 0.6915887850467289 Voting score: 0.6728971962616822
-PCA level: 20 SVC score: 0.8598130841121495 RF score: 0.7102803738317757 Voting score: 0.7102803738317757
-PCA level: 25 SVC score: 0.8598130841121495 RF score: 0.7009345794392523 Voting score: 0.7009345794392523
-PCA level: 30 SVC score: 0.8317757009345794 RF score: 0.6542056074766355 Voting score: 0.6822429906542056
-PCA level: 35 SVC score: 0.794392523364486 RF score: 0.6635514018691588 Voting score: 0.6728971962616822
-PCA level: 40 SVC score: 0.7663551401869159 RF score: 0.6635514018691588 Voting score: 0.6448598130841121
-PCA level: 45 SVC score: 0.7570093457943925 RF score: 0.6635514018691588 Voting score: 0.6822429906542056
-PCA level: 50 SVC score: 0.794392523364486 RF score: 0.616822429906542 Voting score: 0.6915887850467289
-PCA level: 52 SVC score: 0.8130841121495327 RF score: 0.5794392523364486 Voting score: 0.6822429906542056
-HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot5765471758:AAFPzn2Z2gbbe0sp6yurqxwbSmYrrGanla4/sendMessage (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f95ed17a460>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+PCA level: 10 SVC score: 0.6448598130841121 RF score: 0.5981308411214953 Voting score: 0.5420560747663551
+PCA level: 15 SVC score: 0.7757009345794392 RF score: 0.6542056074766355 Voting score: 0.6261682242990654
+PCA level: 20 SVC score: 0.8598130841121495 RF score: 0.6728971962616822 Voting score: 0.7383177570093458
+PCA level: 25 SVC score: 0.8598130841121495 RF score: 0.616822429906542 Voting score: 0.7102803738317757
+PCA level: 30 SVC score: 0.8317757009345794 RF score: 0.6635514018691588 Voting score: 0.7102803738317757
+PCA level: 35 SVC score: 0.794392523364486 RF score: 0.6822429906542056 Voting score: 0.6635514018691588
+PCA level: 40 SVC score: 0.7663551401869159 RF score: 0.6074766355140186 Voting score: 0.6355140186915887
+PCA level: 45 SVC score: 0.7570093457943925 RF score: 0.6915887850467289 Voting score: 0.6542056074766355
+PCA level: 50 SVC score: 0.794392523364486 RF score: 0.5794392523364486 Voting score: 0.6915887850467289
+PCA level: 52 SVC score: 0.8130841121495327 RF score: 0.5607476635514018 Voting score: 0.6822429906542056
+{"ok":true,"result":{"message_id":19554,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677050109,"text":"German_ done"}}
 Fitting 5 folds for each of 12 candidates, totalling 60 fits
 Base SVC score: 0.7083333333333334
 Fitting 5 folds for each of 12 candidates, totalling 60 fits
-Base RF score: 0.6883333333333334
-Base Voting score: 0.3516666666666667
-{"ok":true,"result":{"message_id":19492,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044763,"text":"Base Done for Persian_ with 0.3516666666666667"}}
+Base RF score: 0.6766666666666666
+Base Voting score: 0.355
+{"ok":true,"result":{"message_id":19555,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677050712,"text":"Base Done for Persian_ with 0.355"}}
 Processing the PCA models
 /home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
   _warn_prf(average, modifier, msg_start, len(result))
@@ -364,15 +304,15 @@ Processing the PCA models
   _warn_prf(average, modifier, msg_start, len(result))
 /home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
   _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Recall and F-score are ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
   _warn_prf(average, modifier, msg_start, len(result))
 /home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
   _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Recall and F-score are ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
   _warn_prf(average, modifier, msg_start, len(result))
 /home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
   _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Recall and F-score are ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
   _warn_prf(average, modifier, msg_start, len(result))
 /home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
   _warn_prf(average, modifier, msg_start, len(result))
@@ -381,13 +321,13 @@ Processing the PCA models
 /home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
   _warn_prf(average, modifier, msg_start, len(result))
 20 SVC score 0.7
-20 RF score 0.68
-20 voting score 0.335
-{"ok":true,"result":{"message_id":19495,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044771,"text":"Persian_ 20 done with 0.335"}}
+20 RF score 0.675
+20 voting score 0.3333333333333333
+{"ok":true,"result":{"message_id":19558,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677050716,"text":"Persian_ 20 done with 0.3333333333333333"}}
 40 SVC score 0.7233333333333334
-40 RF score 0.6866666666666666
+40 RF score 0.6733333333333333
 40 voting score 0.3416666666666667
-{"ok":true,"result":{"message_id":19499,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044781,"text":"Persian_ 40 done with 0.3416666666666667"}}
+{"ok":true,"result":{"message_id":19562,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677050721,"text":"Persian_ 40 done with 0.3416666666666667"}}
 /home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
   _warn_prf(average, modifier, msg_start, len(result))
 /home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
@@ -431,73 +371,25 @@ Processing the PCA models
 /home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Recall and F-score are ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
   _warn_prf(average, modifier, msg_start, len(result))
 25 SVC score 0.71
-25 RF score 0.6783333333333333
-25 voting score 0.3333333333333333
-{"ok":true,"result":{"message_id":19496,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044771,"text":"Persian_ 25 done with 0.3333333333333333"}}
+25 RF score 0.6816666666666666
+25 voting score 0.3383333333333333
+{"ok":true,"result":{"message_id":19559,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677050716,"text":"Persian_ 25 done with 0.3383333333333333"}}
 45 SVC score 0.725
-45 RF score 0.675
-45 voting score 0.34
-{"ok":true,"result":{"message_id":19500,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044782,"text":"Persian_ 45 done with 0.34"}}
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
+45 RF score 0.6633333333333333
+45 voting score 0.3433333333333333
+{"ok":true,"result":{"message_id":19563,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677050721,"text":"Persian_ 45 done with 0.3433333333333333"}}
 10 SVC score 0.6766666666666666
-10 RF score 0.66
-10 voting score 0.335
-{"ok":true,"result":{"message_id":19493,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044771,"text":"Persian_ 10 done with 0.335"}}
+10 RF score 0.6566666666666666
+10 voting score 0.3416666666666667
+{"ok":true,"result":{"message_id":19556,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677050715,"text":"Persian_ 10 done with 0.3416666666666667"}}
 30 SVC score 0.7016666666666667
-30 RF score 0.6733333333333333
-30 voting score 0.3433333333333333
-{"ok":true,"result":{"message_id":19497,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044780,"text":"Persian_ 30 done with 0.3433333333333333"}}
+30 RF score 0.6666666666666666
+30 voting score 0.3333333333333333
+{"ok":true,"result":{"message_id":19560,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677050720,"text":"Persian_ 30 done with 0.3333333333333333"}}
 50 SVC score 0.7283333333333334
-50 RF score 0.67
-50 voting score 0.345
-{"ok":true,"result":{"message_id":19501,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044788,"text":"Persian_ 50 done with 0.345"}}
-15 SVC score 0.7016666666666667
-15 RF score 0.6766666666666666
-15 voting score 0.3283333333333333
-{"ok":true,"result":{"message_id":19494,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044771,"text":"Persian_ 15 done with 0.3283333333333333"}}
-35 SVC score 0.6983333333333334
-35 RF score 0.655
-35 voting score 0.33666666666666667
-{"ok":true,"result":{"message_id":19498,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044781,"text":"Persian_ 35 done with 0.33666666666666667"}}
-52 SVC score 0.7333333333333333
-52 RF score 0.685
-52 voting score 0.3416666666666667
-{"ok":true,"result":{"message_id":19502,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044788,"text":"Persian_ 52 done with 0.3416666666666667"}}
+50 RF score 0.6783333333333333
+50 voting score 0.3416666666666667
+{"ok":true,"result":{"message_id":19564,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677050723,"text":"Persian_ 50 done with 0.3416666666666667"}}
 /home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
   _warn_prf(average, modifier, msg_start, len(result))
 /home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
@@ -516,42 +408,70 @@ Processing the PCA models
   _warn_prf(average, modifier, msg_start, len(result))
 /home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
   _warn_prf(average, modifier, msg_start, len(result))
-[CV 4/5] END ................C=1, kernel=linear;, score=0.530 total time=   1.0s
-[CV 2/5] END ..................C=1, kernel=poly;, score=0.437 total time=   0.5s
-[CV 5/5] END ..................C=1, kernel=poly;, score=0.474 total time=   0.5s
+/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home/deepak/code/pca_model/env/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+[CV 2/5] END ................C=1, kernel=linear;, score=0.498 total time=   1.0s
+[CV 5/5] END ................C=1, kernel=linear;, score=0.539 total time=   0.9s
 [CV 2/5] END ...............C=1, kernel=sigmoid;, score=0.394 total time=   0.6s
 [CV 1/5] END ...................C=1, kernel=rbf;, score=0.593 total time=   0.5s
 [CV 5/5] END ...................C=1, kernel=rbf;, score=0.565 total time=   0.6s
-[CV 4/5] END ...............C=10, kernel=linear;, score=0.513 total time=   5.2s
-[CV 2/5] END .................C=10, kernel=poly;, score=0.658 total time=   0.5s
-[CV 5/5] END .................C=10, kernel=poly;, score=0.635 total time=   0.5s
-[CV 5/5] END ..............C=10, kernel=sigmoid;, score=0.304 total time=   0.4s
-[CV 3/5] END ..................C=10, kernel=rbf;, score=0.700 total time=   0.7s
-[CV 1/5] END ..............C=100, kernel=linear;, score=0.524 total time=  32.8s
-[CV 2/5] END .................C=100, kernel=rbf;, score=0.688 total time=   0.7s
-[CV 3/5] END .................C=100, kernel=rbf;, score=0.665 total time=   0.7s
-[CV 5/5] END .................C=100, kernel=rbf;, score=0.704 total time=   0.4s
-[CV 3/5] END .....max_depth=25, n_estimators=30;, score=0.565 total time=   0.2s
-[CV 1/5] END .....max_depth=25, n_estimators=40;, score=0.563 total time=   0.3s
-[CV 5/5] END .....max_depth=25, n_estimators=40;, score=0.565 total time=   0.3s
-[CV 4/5] END .....max_depth=25, n_estimators=50;, score=0.517 total time=   0.4s
-[CV 4/5] END .....max_depth=30, n_estimators=30;, score=0.548 total time=   0.2s
-[CV 3/5] END .....max_depth=30, n_estimators=40;, score=0.635 total time=   0.3s
-[CV 2/5] END .....max_depth=30, n_estimators=50;, score=0.580 total time=   0.4s
-[CV 1/5] END .....max_depth=35, n_estimators=30;, score=0.489 total time=   0.2s
-[CV 4/5] END .....max_depth=35, n_estimators=30;, score=0.478 total time=   0.2s
-[CV 3/5] END .....max_depth=35, n_estimators=40;, score=0.596 total time=   0.3s
-[CV 2/5] END .....max_depth=35, n_estimators=50;, score=0.580 total time=   0.4s
-[CV 1/5] END .....max_depth=40, n_estimators=30;, score=0.485 total time=   0.2s
-[CV 4/5] END .....max_depth=40, n_estimators=30;, score=0.500 total time=   0.2s
-[CV 3/5] END .....max_depth=40, n_estimators=40;, score=0.622 total time=   0.3s
-[CV 2/5] END .....max_depth=40, n_estimators=50;, score=0.524 total time=   0.4s
+[CV 4/5] END ...............C=10, kernel=linear;, score=0.513 total time=   5.1s
+[CV 3/5] END .................C=10, kernel=poly;, score=0.630 total time=   0.6s
+[CV 1/5] END ..............C=10, kernel=sigmoid;, score=0.381 total time=   0.5s
+[CV 3/5] END ..............C=10, kernel=sigmoid;, score=0.343 total time=   0.5s
+[CV 1/5] END ..................C=10, kernel=rbf;, score=0.697 total time=   0.7s
+[CV 4/5] END ..................C=10, kernel=rbf;, score=0.670 total time=   0.7s
+[CV 2/5] END ..............C=100, kernel=linear;, score=0.485 total time=  25.2s
+[CV 5/5] END ..............C=100, kernel=linear;, score=0.526 total time=  21.3s
+[CV 4/5] END .....max_depth=25, n_estimators=30;, score=0.478 total time=   0.2s
+[CV 5/5] END .....max_depth=25, n_estimators=30;, score=0.522 total time=   0.2s
+[CV 4/5] END .....max_depth=25, n_estimators=40;, score=0.517 total time=   0.3s
+[CV 3/5] END .....max_depth=25, n_estimators=50;, score=0.543 total time=   0.4s
+[CV 2/5] END .....max_depth=30, n_estimators=30;, score=0.519 total time=   0.2s
+[CV 1/5] END .....max_depth=30, n_estimators=40;, score=0.541 total time=   0.3s
+[CV 5/5] END .....max_depth=30, n_estimators=40;, score=0.530 total time=   0.3s
+[CV 4/5] END .....max_depth=30, n_estimators=50;, score=0.552 total time=   0.4s
+[CV 4/5] END .....max_depth=35, n_estimators=30;, score=0.543 total time=   0.2s
+[CV 2/5] END .....max_depth=35, n_estimators=40;, score=0.537 total time=   0.3s
+[CV 2/5] END .....max_depth=35, n_estimators=50;, score=0.554 total time=   0.4s
+[CV 1/5] END .....max_depth=40, n_estimators=30;, score=0.537 total time=   0.2s
+[CV 4/5] END .....max_depth=40, n_estimators=30;, score=0.509 total time=   0.2s
+[CV 3/5] END .....max_depth=40, n_estimators=40;, score=0.578 total time=   0.3s
+[CV 2/5] END .....max_depth=40, n_estimators=50;, score=0.519 total time=   0.4s
 [CV 1/5] END ................C=1, kernel=linear;, score=0.779 total time=   0.1s
-[CV 2/5] END ..................C=1, kernel=poly;, score=0.663 total time=   0.1s
-[CV 1/5] END ...............C=1, kernel=sigmoid;, score=0.686 total time=   0.1s
-[CV 2/5] END ...............C=1, kernel=sigmoid;, score=0.756 total time=   0.1s
-[CV 4/5] END ...................C=1, kernel=rbf;, score=0.729 total time=   0.1s
-[CV 5/5] END ...................C=1, kernel=rbf;, score=0.812 total time=   0.1s
+[CV 5/5] END ................C=1, kernel=linear;, score=0.741 total time=   0.1s
+[CV 4/5] END ..................C=1, kernel=poly;, score=0.576 total time=   0.1s
+[CV 5/5] END ..................C=1, kernel=poly;, score=0.706 total time=   0.1s
+[CV 2/5] END ...................C=1, kernel=rbf;, score=0.837 total time=   0.1s
+[CV 3/5] END ...................C=1, kernel=rbf;, score=0.721 total time=   0.1s
 [CV 1/5] END ..............C=10, kernel=sigmoid;, score=0.628 total time=   0.1s
 [CV 2/5] END ..............C=10, kernel=sigmoid;, score=0.663 total time=   0.1s
 [CV 3/5] END ..............C=10, kernel=sigmoid;, score=0.721 total time=   0.1s
@@ -560,70 +480,73 @@ Processing the PCA models
 [CV 2/5] END ..............C=100, kernel=linear;, score=0.698 total time=   0.1s
 [CV 4/5] END ................C=100, kernel=poly;, score=0.671 total time=   0.1s
 [CV 5/5] END ................C=100, kernel=poly;, score=0.718 total time=   0.1s
-[CV 3/5] END .................C=100, kernel=rbf;, score=0.756 total time=   0.1s
-[CV 1/5] END .....max_depth=25, n_estimators=30;, score=0.674 total time=   0.1s
-[CV 5/5] END .....max_depth=25, n_estimators=30;, score=0.659 total time=   0.1s
-[CV 4/5] END .....max_depth=25, n_estimators=40;, score=0.624 total time=   0.1s
-[CV 5/5] END .....max_depth=25, n_estimators=40;, score=0.694 total time=   0.1s
-[CV 2/5] END .....max_depth=30, n_estimators=30;, score=0.721 total time=   0.1s
-[CV 3/5] END .....max_depth=30, n_estimators=30;, score=0.686 total time=   0.1s
-[CV 5/5] END .....max_depth=30, n_estimators=40;, score=0.718 total time=   0.1s
-[CV 1/5] END .....max_depth=30, n_estimators=50;, score=0.674 total time=   0.2s
-[CV 3/5] END .....max_depth=35, n_estimators=30;, score=0.640 total time=   0.1s
-[CV 4/5] END .....max_depth=35, n_estimators=30;, score=0.647 total time=   0.1s
-[CV 1/5] END .....max_depth=35, n_estimators=50;, score=0.674 total time=   0.2s
-[CV 2/5] END .....max_depth=35, n_estimators=50;, score=0.698 total time=   0.2s
-[CV 4/5] END .....max_depth=40, n_estimators=30;, score=0.588 total time=   0.1s
-[CV 5/5] END .....max_depth=40, n_estimators=30;, score=0.624 total time=   0.1s
-[CV 2/5] END .....max_depth=40, n_estimators=50;, score=0.709 total time=   0.2s
-[CV 5/5] END .....max_depth=40, n_estimators=50;, score=0.729 total time=   0.2s
-[CV 4/5] END ................C=1, kernel=linear;, score=0.717 total time=   3.8s
-[CV 3/5] END ..................C=1, kernel=poly;, score=0.688 total time=   1.6s
-[CV 1/5] END ...............C=1, kernel=sigmoid;, score=0.554 total time=   1.6s
-[CV 4/5] END ...............C=1, kernel=sigmoid;, score=0.608 total time=   1.7s
-[CV 3/5] END ...................C=1, kernel=rbf;, score=0.731 total time=   1.7s
-[CV 2/5] END ...............C=10, kernel=linear;, score=0.685 total time=  31.9s
-[CV 2/5] END .................C=10, kernel=poly;, score=0.690 total time=   1.7s
-[CV 4/5] END .................C=10, kernel=poly;, score=0.710 total time=   1.7s
-[CV 2/5] END ..............C=10, kernel=sigmoid;, score=0.540 total time=   1.3s
-[CV 5/5] END ..............C=10, kernel=sigmoid;, score=0.569 total time=   1.3s
+[CV 2/5] END .................C=100, kernel=rbf;, score=0.791 total time=   0.1s
+[CV 5/5] END .................C=100, kernel=rbf;, score=0.812 total time=   0.1s
+[CV 4/5] END .....max_depth=25, n_estimators=30;, score=0.671 total time=   0.1s
+[CV 1/5] END .....max_depth=25, n_estimators=40;, score=0.709 total time=   0.1s
+[CV 1/5] END .....max_depth=25, n_estimators=50;, score=0.640 total time=   0.2s
+[CV 2/5] END .....max_depth=25, n_estimators=50;, score=0.709 total time=   0.2s
+[CV 1/5] END .....max_depth=30, n_estimators=40;, score=0.651 total time=   0.1s
+[CV 2/5] END .....max_depth=30, n_estimators=40;, score=0.686 total time=   0.1s
+[CV 4/5] END .....max_depth=30, n_estimators=50;, score=0.624 total time=   0.2s
+[CV 5/5] END .....max_depth=30, n_estimators=50;, score=0.624 total time=   0.2s
+[CV 4/5] END .....max_depth=35, n_estimators=40;, score=0.659 total time=   0.1s
+[CV 5/5] END .....max_depth=35, n_estimators=40;, score=0.671 total time=   0.1s
+[CV 2/5] END .....max_depth=40, n_estimators=30;, score=0.663 total time=   0.1s
+[CV 3/5] END .....max_depth=40, n_estimators=30;, score=0.628 total time=   0.1s
+[CV 5/5] END .....max_depth=40, n_estimators=40;, score=0.682 total time=   0.1s
+[CV 1/5] END .....max_depth=40, n_estimators=50;, score=0.686 total time=   0.2s
+[CV 1/5] END ................C=1, kernel=linear;, score=0.700 total time=   3.6s
+[CV 5/5] END ................C=1, kernel=linear;, score=0.717 total time=   3.8s
+[CV 5/5] END ...............C=1, kernel=sigmoid;, score=0.625 total time=   1.6s
+[CV 4/5] END ...................C=1, kernel=rbf;, score=0.731 total time=   1.8s
+[CV 3/5] END ...............C=10, kernel=linear;, score=0.706 total time=  31.5s
+[CV 1/5] END .................C=10, kernel=poly;, score=0.681 total time=   1.7s
+[CV 3/5] END .................C=10, kernel=poly;, score=0.696 total time=   1.7s
+[CV 5/5] END .................C=10, kernel=poly;, score=0.704 total time=   1.7s
+[CV 2/5] END ..............C=10, kernel=sigmoid;, score=0.540 total time=   1.4s
+[CV 5/5] END ..............C=10, kernel=sigmoid;, score=0.569 total time=   1.4s
 [CV 3/5] END ..................C=10, kernel=rbf;, score=0.731 total time=   2.1s
-[CV 1/5] END ..............C=100, kernel=linear;, score=0.679 total time= 5.9min
+[CV 1/5] END ..............C=100, kernel=linear;, score=0.679 total time= 5.6min
+[CV 1/5] END ................C=100, kernel=poly;, score=0.660 total time=   1.8s
+[CV 2/5] END ................C=100, kernel=poly;, score=0.679 total time=   1.7s
 [CV 3/5] END ................C=100, kernel=poly;, score=0.696 total time=   1.7s
+[CV 4/5] END ................C=100, kernel=poly;, score=0.696 total time=   1.8s
 [CV 5/5] END ................C=100, kernel=poly;, score=0.681 total time=   1.7s
+[CV 1/5] END .............C=100, kernel=sigmoid;, score=0.523 total time=   1.2s
 [CV 2/5] END .............C=100, kernel=sigmoid;, score=0.542 total time=   1.2s
+[CV 3/5] END .............C=100, kernel=sigmoid;, score=0.535 total time=   1.3s
 [CV 4/5] END .............C=100, kernel=sigmoid;, score=0.573 total time=   1.3s
-[CV 1/5] END .................C=100, kernel=rbf;, score=0.688 total time=   2.1s
+[CV 5/5] END .............C=100, kernel=sigmoid;, score=0.581 total time=   1.2s
+[CV 1/5] END .................C=100, kernel=rbf;, score=0.688 total time=   2.2s
 [CV 3/5] END .................C=100, kernel=rbf;, score=0.719 total time=   2.2s
-[CV 5/5] END .................C=100, kernel=rbf;, score=0.690 total time=   2.1s
-[CV 2/5] END .....max_depth=25, n_estimators=30;, score=0.671 total time=   0.4s
-[CV 2/5] END .....max_depth=25, n_estimators=40;, score=0.675 total time=   0.6s
-[CV 1/5] END .....max_depth=25, n_estimators=50;, score=0.690 total time=   0.7s
-[CV 1/5] END .....max_depth=30, n_estimators=30;, score=0.677 total time=   0.4s
-[CV 3/5] END .....max_depth=30, n_estimators=30;, score=0.662 total time=   0.4s
-[CV 1/5] END .....max_depth=30, n_estimators=40;, score=0.667 total time=   0.6s
-[CV 5/5] END .....max_depth=30, n_estimators=40;, score=0.696 total time=   0.6s
-[CV 4/5] END .....max_depth=30, n_estimators=50;, score=0.696 total time=   0.7s
+[CV 5/5] END .................C=100, kernel=rbf;, score=0.690 total time=   2.2s
+[CV 2/5] END .....max_depth=25, n_estimators=30;, score=0.696 total time=   0.4s
+[CV 5/5] END .....max_depth=25, n_estimators=30;, score=0.671 total time=   0.4s
+[CV 4/5] END .....max_depth=25, n_estimators=40;, score=0.688 total time=   0.6s
+[CV 3/5] END .....max_depth=25, n_estimators=50;, score=0.704 total time=   0.7s
+[CV 2/5] END .....max_depth=30, n_estimators=30;, score=0.677 total time=   0.4s
+[CV 1/5] END .....max_depth=30, n_estimators=40;, score=0.654 total time=   0.6s
+[CV 5/5] END .....max_depth=30, n_estimators=40;, score=0.704 total time=   0.6s
+[CV 4/5] END .....max_depth=30, n_estimators=50;, score=0.685 total time=   0.7s
 [CV 3/5] END .....max_depth=35, n_estimators=30;, score=0.673 total time=   0.4s
-[CV 3/5] END .....max_depth=35, n_estimators=40;, score=0.675 total time=   0.6s
-[CV 1/5] END .....max_depth=35, n_estimators=50;, score=0.667 total time=   0.7s
-[CV 1/5] END .....max_depth=40, n_estimators=30;, score=0.652 total time=   0.4s
-[CV 4/5] END .....max_depth=40, n_estimators=30;, score=0.704 total time=   0.4s
-[CV 3/5] END .....max_depth=40, n_estimators=40;, score=0.690 total time=   0.6s
-[CV 2/5] END .....max_depth=40, n_estimators=50;, score=0.696 total time=   0.7s
-[CV 1/5] END ................C=1, kernel=linear;, score=0.691 total time=   0.2s
-[CV 3/5] END ..................C=1, kernel=poly;, score=0.585 total time=   0.1s
-[CV 3/5] END ...............C=1, kernel=sigmoid;, score=0.404 total time=   0.1s
-[CV 4/5] END ...............C=1, kernel=sigmoid;, score=0.489 total time=   0.1s
-[CV 1/5] END ...............C=10, kernel=linear;, score=0.681 total time=   0.2s
-[CV 2/5] END ...............C=10, kernel=linear;, score=0.681 total time=   0.2s
-[CV 2/5] END ................C=1, kernel=linear;, score=0.498 total time=   0.9s
-[CV 5/5] END ................C=1, kernel=linear;, score=0.539 total time=   1.0s
+[CV 2/5] END .....max_depth=35, n_estimators=40;, score=0.685 total time=   0.6s
+[CV 1/5] END .....max_depth=35, n_estimators=50;, score=0.677 total time=   0.7s
+[CV 5/5] END .....max_depth=35, n_estimators=50;, score=0.700 total time=   0.7s
+[CV 1/5] END .....max_depth=40, n_estimators=40;, score=0.675 total time=   0.6s
+[CV 5/5] END .....max_depth=40, n_estimators=40;, score=0.688 total time=   0.6s
+[CV 4/5] END .....max_depth=40, n_estimators=50;, score=0.690 total time=   0.6s
+[CV 3/5] END ................C=1, kernel=linear;, score=0.638 total time=   0.1s
+[CV 5/5] END ................C=1, kernel=linear;, score=0.681 total time=   0.1s
+[CV 5/5] END ...............C=1, kernel=sigmoid;, score=0.372 total time=   0.1s
+[CV 1/5] END ................C=1, kernel=linear;, score=0.532 total time=   1.1s
+[CV 2/5] END ..................C=1, kernel=poly;, score=0.437 total time=   0.4s
+[CV 5/5] END ..................C=1, kernel=poly;, score=0.474 total time=   0.5s
 [CV 4/5] END ...............C=1, kernel=sigmoid;, score=0.409 total time=   0.6s
-[CV 3/5] END ...................C=1, kernel=rbf;, score=0.574 total time=   0.6s
-[CV 2/5] END ...............C=10, kernel=linear;, score=0.511 total time=   4.3s
+[CV 3/5] END ...................C=1, kernel=rbf;, score=0.574 total time=   0.5s
+[CV 2/5] END ...............C=10, kernel=linear;, score=0.511 total time=   4.7s
 [CV 5/5] END ...............C=10, kernel=linear;, score=0.539 total time=   5.0s
-[CV 4/5] END ..............C=100, kernel=linear;, score=0.491 total time=  26.3s
+[CV 4/5] END ..............C=100, kernel=linear;, score=0.491 total time=  27.7s
 [CV 1/5] END ................C=100, kernel=poly;, score=0.671 total time=   0.6s
 [CV 2/5] END ................C=100, kernel=poly;, score=0.658 total time=   0.6s
 [CV 3/5] END ................C=100, kernel=poly;, score=0.613 total time=   0.6s
@@ -635,22 +558,117 @@ Processing the PCA models
 [CV 4/5] END .............C=100, kernel=sigmoid;, score=0.283 total time=   0.4s
 [CV 5/5] END .............C=100, kernel=sigmoid;, score=0.309 total time=   0.4s
 [CV 1/5] END .................C=100, kernel=rbf;, score=0.706 total time=   0.7s
-[CV 4/5] END .................C=100, kernel=rbf;, score=0.670 total time=   0.7s
-[CV 1/5] END .....max_depth=25, n_estimators=30;, score=0.494 total time=   0.2s
-[CV 5/5] END .....max_depth=25, n_estimators=30;, score=0.530 total time=   0.2s
-[CV 4/5] END .....max_depth=25, n_estimators=40;, score=0.509 total time=   0.3s
-[CV 3/5] END .....max_depth=25, n_estimators=50;, score=0.583 total time=   0.4s
-[CV 2/5] END .....max_depth=30, n_estimators=30;, score=0.545 total time=   0.2s
-[CV 1/5] END .....max_depth=30, n_estimators=40;, score=0.558 total time=   0.3s
-[CV 5/5] END .....max_depth=30, n_estimators=40;, score=0.496 total time=   0.3s
-[CV 4/5] END .....max_depth=30, n_estimators=50;, score=0.583 total time=   0.4s
-[CV 3/5] END .....max_depth=35, n_estimators=30;, score=0.578 total time=   0.2s
-[CV 2/5] END .....max_depth=35, n_estimators=40;, score=0.524 total time=   0.3s
-[CV 1/5] END .....max_depth=35, n_estimators=50;, score=0.550 total time=   0.4s
-[CV 5/5] END .....max_depth=35, n_estimators=50;, score=0.526 total time=   0.4s
-[CV 1/5] END .....max_depth=40, n_estimators=40;, score=0.476 total time=   0.3s
-[CV 5/5] END .....max_depth=40, n_estimators=40;, score=0.522 total time=   0.3s
-[CV 4/5] END .....max_depth=40, n_estimators=50;, score=0.539 total time=   0.3s
+[CV 5/5] END .................C=100, kernel=rbf;, score=0.704 total time=   0.5s
+[CV 2/5] END .....max_depth=25, n_estimators=30;, score=0.532 total time=   0.2s
+[CV 3/5] END .....max_depth=25, n_estimators=40;, score=0.596 total time=   0.3s
+[CV 2/5] END .....max_depth=25, n_estimators=50;, score=0.545 total time=   0.4s
+[CV 1/5] END .....max_depth=30, n_estimators=30;, score=0.511 total time=   0.2s
+[CV 3/5] END .....max_depth=30, n_estimators=30;, score=0.596 total time=   0.2s
+[CV 2/5] END .....max_depth=30, n_estimators=40;, score=0.558 total time=   0.3s
+[CV 1/5] END .....max_depth=30, n_estimators=50;, score=0.515 total time=   0.4s
+[CV 5/5] END .....max_depth=30, n_estimators=50;, score=0.522 total time=   0.4s
+[CV 1/5] END .....max_depth=35, n_estimators=40;, score=0.571 total time=   0.3s
+[CV 5/5] END .....max_depth=35, n_estimators=40;, score=0.543 total time=   0.3s
+[CV 4/5] END .....max_depth=35, n_estimators=50;, score=0.561 total time=   0.4s
+[CV 3/5] END .....max_depth=40, n_estimators=30;, score=0.617 total time=   0.2s
+[CV 2/5] END .....max_depth=40, n_estimators=40;, score=0.515 total time=   0.3s
+[CV 1/5] END .....max_depth=40, n_estimators=50;, score=0.528 total time=   0.4s
+[CV 5/5] END .....max_depth=40, n_estimators=50;, score=0.552 total time=   0.3s
+[CV 4/5] END ................C=1, kernel=linear;, score=0.741 total time=   0.1s
+[CV 2/5] END ..................C=1, kernel=poly;, score=0.663 total time=   0.1s
+[CV 1/5] END ...............C=1, kernel=sigmoid;, score=0.686 total time=   0.1s
+[CV 2/5] END ...............C=1, kernel=sigmoid;, score=0.756 total time=   0.1s
+[CV 4/5] END ...................C=1, kernel=rbf;, score=0.729 total time=   0.1s
+[CV 5/5] END ...................C=1, kernel=rbf;, score=0.812 total time=   0.1s
+[CV 4/5] END .................C=10, kernel=poly;, score=0.718 total time=   0.1s
+[CV 5/5] END .................C=10, kernel=poly;, score=0.753 total time=   0.1s
+[CV 4/5] END ..................C=10, kernel=rbf;, score=0.753 total time=   0.1s
+[CV 5/5] END ..................C=10, kernel=rbf;, score=0.812 total time=   0.1s
+[CV 5/5] END ..............C=100, kernel=linear;, score=0.694 total time=   0.1s
+[CV 1/5] END ................C=100, kernel=poly;, score=0.733 total time=   0.1s
+[CV 3/5] END .............C=100, kernel=sigmoid;, score=0.640 total time=   0.1s
+[CV 4/5] END .............C=100, kernel=sigmoid;, score=0.565 total time=   0.1s
+[CV 4/5] END .................C=100, kernel=rbf;, score=0.753 total time=   0.1s
+[CV 3/5] END .....max_depth=25, n_estimators=30;, score=0.674 total time=   0.1s
+[CV 2/5] END .....max_depth=25, n_estimators=40;, score=0.663 total time=   0.1s
+[CV 3/5] END .....max_depth=25, n_estimators=50;, score=0.698 total time=   0.2s
+[CV 4/5] END .....max_depth=25, n_estimators=50;, score=0.635 total time=   0.2s
+[CV 3/5] END .....max_depth=30, n_estimators=40;, score=0.663 total time=   0.1s
+[CV 4/5] END .....max_depth=30, n_estimators=40;, score=0.624 total time=   0.1s
+[CV 1/5] END .....max_depth=35, n_estimators=30;, score=0.709 total time=   0.1s
+[CV 2/5] END .....max_depth=35, n_estimators=30;, score=0.744 total time=   0.1s
+[CV 2/5] END .....max_depth=35, n_estimators=40;, score=0.640 total time=   0.1s
+[CV 3/5] END .....max_depth=35, n_estimators=40;, score=0.616 total time=   0.1s
+[CV 5/5] END .....max_depth=35, n_estimators=50;, score=0.624 total time=   0.2s
+[CV 1/5] END .....max_depth=40, n_estimators=30;, score=0.640 total time=   0.1s
+[CV 1/5] END .....max_depth=40, n_estimators=40;, score=0.709 total time=   0.1s
+[CV 2/5] END .....max_depth=40, n_estimators=40;, score=0.709 total time=   0.1s
+[CV 3/5] END .....max_depth=40, n_estimators=50;, score=0.663 total time=   0.2s
+[CV 3/5] END ................C=1, kernel=linear;, score=0.713 total time=   3.8s
+[CV 2/5] END ..................C=1, kernel=poly;, score=0.696 total time=   1.7s
+[CV 4/5] END ..................C=1, kernel=poly;, score=0.683 total time=   1.5s
+[CV 3/5] END ...............C=1, kernel=sigmoid;, score=0.592 total time=   1.6s
+[CV 1/5] END ...................C=1, kernel=rbf;, score=0.713 total time=   1.7s
+[CV 5/5] END ...................C=1, kernel=rbf;, score=0.725 total time=   1.8s
+[CV 4/5] END ...............C=10, kernel=linear;, score=0.702 total time=  35.7s
+[CV 3/5] END ..............C=10, kernel=sigmoid;, score=0.540 total time=   1.4s
+[CV 1/5] END ..................C=10, kernel=rbf;, score=0.721 total time=   2.2s
+[CV 4/5] END ..................C=10, kernel=rbf;, score=0.740 total time=   2.2s
+[CV 2/5] END ..............C=100, kernel=linear;, score=0.681 total time= 5.5min
+[CV 5/5] END ..............C=100, kernel=linear;, score=0.715 total time= 3.4min
+[CV 4/5] END .....max_depth=25, n_estimators=30;, score=0.694 total time=   0.4s
+[CV 2/5] END .....max_depth=25, n_estimators=40;, score=0.679 total time=   0.6s
+[CV 5/5] END .....max_depth=25, n_estimators=40;, score=0.667 total time=   0.7s
+[CV 4/5] END .....max_depth=25, n_estimators=50;, score=0.704 total time=   0.7s
+[CV 4/5] END .....max_depth=30, n_estimators=30;, score=0.702 total time=   0.4s
+[CV 3/5] END .....max_depth=30, n_estimators=40;, score=0.675 total time=   0.6s
+[CV 2/5] END .....max_depth=30, n_estimators=50;, score=0.696 total time=   0.7s
+[CV 1/5] END .....max_depth=35, n_estimators=30;, score=0.640 total time=   0.4s
+[CV 4/5] END .....max_depth=35, n_estimators=30;, score=0.694 total time=   0.4s
+[CV 3/5] END .....max_depth=35, n_estimators=40;, score=0.681 total time=   0.6s
+[CV 2/5] END .....max_depth=35, n_estimators=50;, score=0.673 total time=   0.7s
+[CV 1/5] END .....max_depth=40, n_estimators=30;, score=0.652 total time=   0.4s
+[CV 4/5] END .....max_depth=40, n_estimators=30;, score=0.690 total time=   0.4s
+[CV 3/5] END .....max_depth=40, n_estimators=40;, score=0.658 total time=   0.6s
+[CV 2/5] END .....max_depth=40, n_estimators=50;, score=0.675 total time=   0.7s
+[CV 1/5] END ................C=1, kernel=linear;, score=0.691 total time=   0.1s
+[CV 2/5] END ..................C=1, kernel=poly;, score=0.596 total time=   0.1s
+[CV 1/5] END ...............C=1, kernel=sigmoid;, score=0.404 total time=   0.1s
+[CV 2/5] END ...............C=1, kernel=sigmoid;, score=0.362 total time=   0.1s
+[CV 4/5] END ...................C=1, kernel=rbf;, score=0.766 total time=   0.1s
+[CV 5/5] END ...................C=1, kernel=rbf;, score=0.660 total time=   0.1s
+[CV 2/5] END .................C=10, kernel=poly;, score=0.787 total time=   0.1s
+[CV 3/5] END .................C=10, kernel=poly;, score=0.723 total time=   0.1s
+[CV 3/5] END ..............C=10, kernel=sigmoid;, score=0.319 total time=   0.1s
+[CV 4/5] END ................C=1, kernel=linear;, score=0.530 total time=   1.0s
+[CV 1/5] END ..................C=1, kernel=poly;, score=0.398 total time=   0.4s
+[CV 4/5] END ..................C=1, kernel=poly;, score=0.465 total time=   0.5s
+[CV 3/5] END ...............C=1, kernel=sigmoid;, score=0.413 total time=   0.6s
+[CV 2/5] END ...................C=1, kernel=rbf;, score=0.532 total time=   0.5s
+[CV 1/5] END ...............C=10, kernel=linear;, score=0.528 total time=   5.6s
+[CV 2/5] END .................C=10, kernel=poly;, score=0.658 total time=   0.5s
+[CV 5/5] END .................C=10, kernel=poly;, score=0.635 total time=   0.5s
+[CV 4/5] END ..............C=10, kernel=sigmoid;, score=0.335 total time=   0.5s
+[CV 2/5] END ..................C=10, kernel=rbf;, score=0.688 total time=   0.7s
+[CV 5/5] END ..................C=10, kernel=rbf;, score=0.691 total time=   0.7s
+[CV 3/5] END ..............C=100, kernel=linear;, score=0.578 total time=  33.9s
+[CV 2/5] END .................C=100, kernel=rbf;, score=0.688 total time=   0.7s
+[CV 4/5] END .................C=100, kernel=rbf;, score=0.670 total time=   0.6s
+[CV 3/5] END .....max_depth=25, n_estimators=30;, score=0.565 total time=   0.2s
+[CV 1/5] END .....max_depth=25, n_estimators=40;, score=0.506 total time=   0.3s
+[CV 5/5] END .....max_depth=25, n_estimators=40;, score=0.548 total time=   0.3s
+[CV 4/5] END .....max_depth=25, n_estimators=50;, score=0.565 total time=   0.4s
+[CV 4/5] END .....max_depth=30, n_estimators=30;, score=0.530 total time=   0.2s
+[CV 3/5] END .....max_depth=30, n_estimators=40;, score=0.622 total time=   0.3s
+[CV 2/5] END .....max_depth=30, n_estimators=50;, score=0.506 total time=   0.4s
+[CV 1/5] END .....max_depth=35, n_estimators=30;, score=0.541 total time=   0.2s
+[CV 3/5] END .....max_depth=35, n_estimators=30;, score=0.574 total time=   0.2s
+[CV 3/5] END .....max_depth=35, n_estimators=40;, score=0.570 total time=   0.3s
+[CV 1/5] END .....max_depth=35, n_estimators=50;, score=0.545 total time=   0.4s
+[CV 5/5] END .....max_depth=35, n_estimators=50;, score=0.552 total time=   0.4s
+[CV 1/5] END .....max_depth=40, n_estimators=40;, score=0.567 total time=   0.3s
+[CV 5/5] END .....max_depth=40, n_estimators=40;, score=0.517 total time=   0.3s
+[CV 4/5] END .....max_depth=40, n_estimators=50;, score=0.504 total time=   0.3s
 [CV 3/5] END ................C=1, kernel=linear;, score=0.767 total time=   0.1s
 [CV 1/5] END ..................C=1, kernel=poly;, score=0.651 total time=   0.1s
 [CV 3/5] END ...............C=1, kernel=sigmoid;, score=0.663 total time=   0.1s
@@ -665,190 +683,93 @@ Processing the PCA models
 [CV 4/5] END ..............C=100, kernel=linear;, score=0.729 total time=   0.1s
 [CV 1/5] END .............C=100, kernel=sigmoid;, score=0.674 total time=   0.1s
 [CV 2/5] END .............C=100, kernel=sigmoid;, score=0.628 total time=   0.1s
-[CV 2/5] END .................C=100, kernel=rbf;, score=0.791 total time=   0.1s
-[CV 5/5] END .................C=100, kernel=rbf;, score=0.812 total time=   0.1s
-[CV 4/5] END .....max_depth=25, n_estimators=30;, score=0.647 total time=   0.1s
-[CV 3/5] END .....max_depth=25, n_estimators=40;, score=0.640 total time=   0.1s
-[CV 3/5] END .....max_depth=25, n_estimators=50;, score=0.651 total time=   0.2s
-[CV 4/5] END .....max_depth=25, n_estimators=50;, score=0.671 total time=   0.2s
-[CV 3/5] END .....max_depth=30, n_estimators=40;, score=0.686 total time=   0.1s
-[CV 4/5] END .....max_depth=30, n_estimators=40;, score=0.647 total time=   0.1s
-[CV 4/5] END .....max_depth=30, n_estimators=50;, score=0.612 total time=   0.2s
-[CV 5/5] END .....max_depth=30, n_estimators=50;, score=0.718 total time=   0.2s
-[CV 4/5] END .....max_depth=35, n_estimators=40;, score=0.647 total time=   0.1s
-[CV 5/5] END .....max_depth=35, n_estimators=40;, score=0.635 total time=   0.1s
-[CV 2/5] END .....max_depth=40, n_estimators=30;, score=0.674 total time=   0.1s
-[CV 3/5] END .....max_depth=40, n_estimators=30;, score=0.628 total time=   0.1s
-[CV 5/5] END .....max_depth=40, n_estimators=40;, score=0.612 total time=   0.1s
-[CV 1/5] END .....max_depth=40, n_estimators=50;, score=0.663 total time=   0.2s
-[CV 1/5] END ................C=1, kernel=linear;, score=0.700 total time=   3.5s
-[CV 5/5] END ................C=1, kernel=linear;, score=0.717 total time=   3.9s
-[CV 5/5] END ...............C=1, kernel=sigmoid;, score=0.625 total time=   1.6s
-[CV 4/5] END ...................C=1, kernel=rbf;, score=0.731 total time=   1.8s
-[CV 3/5] END ...............C=10, kernel=linear;, score=0.706 total time=  30.8s
-[CV 1/5] END .................C=10, kernel=poly;, score=0.681 total time=   1.7s
-[CV 3/5] END .................C=10, kernel=poly;, score=0.696 total time=   1.7s
-[CV 1/5] END ..............C=10, kernel=sigmoid;, score=0.504 total time=   1.3s
-[CV 4/5] END ..............C=10, kernel=sigmoid;, score=0.579 total time=   1.4s
-[CV 2/5] END ..................C=10, kernel=rbf;, score=0.729 total time=   2.1s
-[CV 5/5] END ..................C=10, kernel=rbf;, score=0.704 total time=   2.1s
-[CV 3/5] END ..............C=100, kernel=linear;, score=0.704 total time= 5.7min
-[CV 5/5] END ..............C=100, kernel=linear;, score=0.715 total time= 2.9min
-[CV 4/5] END .....max_depth=25, n_estimators=30;, score=0.694 total time=   0.4s
-[CV 3/5] END .....max_depth=25, n_estimators=40;, score=0.669 total time=   0.6s
-[CV 2/5] END .....max_depth=25, n_estimators=50;, score=0.692 total time=   0.7s
-[CV 5/5] END .....max_depth=25, n_estimators=50;, score=0.681 total time=   0.7s
-[CV 5/5] END .....max_depth=30, n_estimators=30;, score=0.665 total time=   0.4s
-[CV 4/5] END .....max_depth=30, n_estimators=40;, score=0.700 total time=   0.6s
-[CV 3/5] END .....max_depth=30, n_estimators=50;, score=0.679 total time=   0.7s
-[CV 2/5] END .....max_depth=35, n_estimators=30;, score=0.677 total time=   0.4s
-[CV 1/5] END .....max_depth=35, n_estimators=40;, score=0.675 total time=   0.6s
-[CV 5/5] END .....max_depth=35, n_estimators=40;, score=0.700 total time=   0.6s
-[CV 4/5] END .....max_depth=35, n_estimators=50;, score=0.696 total time=   0.7s
-[CV 3/5] END .....max_depth=40, n_estimators=30;, score=0.677 total time=   0.4s
-[CV 2/5] END .....max_depth=40, n_estimators=40;, score=0.675 total time=   0.6s
-[CV 1/5] END .....max_depth=40, n_estimators=50;, score=0.665 total time=   0.7s
-[CV 5/5] END .....max_depth=40, n_estimators=50;, score=0.692 total time=   0.6s
-[CV 4/5] END ................C=1, kernel=linear;, score=0.564 total time=   0.1s
-[CV 2/5] END ..................C=1, kernel=poly;, score=0.596 total time=   0.1s
-[CV 1/5] END ...............C=1, kernel=sigmoid;, score=0.404 total time=   0.1s
-[CV 2/5] END ...............C=1, kernel=sigmoid;, score=0.362 total time=   0.1s
-[CV 4/5] END ...................C=1, kernel=rbf;, score=0.766 total time=   0.1s
-[CV 5/5] END ...................C=1, kernel=rbf;, score=0.660 total time=   0.1s
-[CV 2/5] END .................C=10, kernel=poly;, score=0.787 total time=   0.1s
-[CV 3/5] END .................C=10, kernel=poly;, score=0.723 total time=   0.1s
-[CV 5/5] END ..............C=10, kernel=sigmoid;, score=0.362 total time=   0.1s
-[CV 1/5] END ................C=1, kernel=linear;, score=0.532 total time=   1.0s
-[CV 1/5] END ..................C=1, kernel=poly;, score=0.398 total time=   0.5s
-[CV 4/5] END ..................C=1, kernel=poly;, score=0.465 total time=   0.5s
-[CV 3/5] END ...............C=1, kernel=sigmoid;, score=0.413 total time=   0.6s
-[CV 2/5] END ...................C=1, kernel=rbf;, score=0.532 total time=   0.6s
-[CV 1/5] END ...............C=10, kernel=linear;, score=0.528 total time=   5.8s
-[CV 4/5] END .................C=10, kernel=poly;, score=0.617 total time=   0.5s
-[CV 1/5] END ..............C=10, kernel=sigmoid;, score=0.381 total time=   0.4s
-[CV 3/5] END ..............C=10, kernel=sigmoid;, score=0.343 total time=   0.4s
-[CV 2/5] END ..................C=10, kernel=rbf;, score=0.688 total time=   0.6s
-[CV 4/5] END ..................C=10, kernel=rbf;, score=0.670 total time=   0.7s
-[CV 3/5] END ..............C=100, kernel=linear;, score=0.578 total time=  33.7s
-[CV 2/5] END .....max_depth=25, n_estimators=30;, score=0.541 total time=   0.2s
-[CV 2/5] END .....max_depth=25, n_estimators=40;, score=0.545 total time=   0.3s
-[CV 1/5] END .....max_depth=25, n_estimators=50;, score=0.558 total time=   0.4s
-[CV 5/5] END .....max_depth=25, n_estimators=50;, score=0.574 total time=   0.4s
-[CV 5/5] END .....max_depth=30, n_estimators=30;, score=0.565 total time=   0.2s
-[CV 4/5] END .....max_depth=30, n_estimators=40;, score=0.561 total time=   0.3s
-[CV 3/5] END .....max_depth=30, n_estimators=50;, score=0.565 total time=   0.4s
-[CV 2/5] END .....max_depth=35, n_estimators=30;, score=0.528 total time=   0.2s
-[CV 5/5] END .....max_depth=35, n_estimators=30;, score=0.543 total time=   0.2s
-[CV 4/5] END .....max_depth=35, n_estimators=40;, score=0.535 total time=   0.3s
-[CV 3/5] END .....max_depth=35, n_estimators=50;, score=0.617 total time=   0.4s
-[CV 2/5] END .....max_depth=40, n_estimators=30;, score=0.528 total time=   0.2s
-[CV 5/5] END .....max_depth=40, n_estimators=30;, score=0.517 total time=   0.2s
-[CV 4/5] END .....max_depth=40, n_estimators=40;, score=0.491 total time=   0.3s
-[CV 3/5] END .....max_depth=40, n_estimators=50;, score=0.587 total time=   0.3s
-[CV 2/5] END ................C=1, kernel=linear;, score=0.686 total time=   0.1s
-[CV 5/5] END ................C=1, kernel=linear;, score=0.741 total time=   0.1s
-[CV 4/5] END ..................C=1, kernel=poly;, score=0.576 total time=   0.1s
-[CV 5/5] END ..................C=1, kernel=poly;, score=0.706 total time=   0.1s
-[CV 2/5] END ...................C=1, kernel=rbf;, score=0.837 total time=   0.1s
-[CV 3/5] END ...................C=1, kernel=rbf;, score=0.721 total time=   0.1s
-[CV 4/5] END .................C=10, kernel=poly;, score=0.718 total time=   0.1s
-[CV 5/5] END .................C=10, kernel=poly;, score=0.753 total time=   0.1s
-[CV 4/5] END ..................C=10, kernel=rbf;, score=0.753 total time=   0.1s
-[CV 5/5] END ..................C=10, kernel=rbf;, score=0.812 total time=   0.1s
-[CV 2/5] END ................C=100, kernel=poly;, score=0.698 total time=   0.1s
-[CV 3/5] END ................C=100, kernel=poly;, score=0.756 total time=   0.1s
-[CV 5/5] END .............C=100, kernel=sigmoid;, score=0.659 total time=   0.1s
-[CV 1/5] END .................C=100, kernel=rbf;, score=0.733 total time=   0.1s
-[CV 2/5] END .....max_depth=25, n_estimators=30;, score=0.698 total time=   0.1s
-[CV 2/5] END .....max_depth=25, n_estimators=40;, score=0.698 total time=   0.1s
-[CV 5/5] END .....max_depth=25, n_estimators=50;, score=0.682 total time=   0.2s
-[CV 1/5] END .....max_depth=30, n_estimators=30;, score=0.640 total time=   0.1s
-[CV 4/5] END .....max_depth=30, n_estimators=30;, score=0.694 total time=   0.1s
-[CV 5/5] END .....max_depth=30, n_estimators=30;, score=0.647 total time=   0.1s
-[CV 2/5] END .....max_depth=30, n_estimators=50;, score=0.698 total time=   0.2s
+[CV 3/5] END .................C=100, kernel=rbf;, score=0.756 total time=   0.1s
+[CV 1/5] END .....max_depth=25, n_estimators=30;, score=0.640 total time=   0.1s
+[CV 5/5] END .....max_depth=25, n_estimators=30;, score=0.706 total time=   0.1s
+[CV 4/5] END .....max_depth=25, n_estimators=40;, score=0.659 total time=   0.1s
+[CV 5/5] END .....max_depth=25, n_estimators=40;, score=0.647 total time=   0.1s
+[CV 2/5] END .....max_depth=30, n_estimators=30;, score=0.663 total time=   0.1s
+[CV 3/5] END .....max_depth=30, n_estimators=30;, score=0.674 total time=   0.1s
+[CV 2/5] END .....max_depth=30, n_estimators=50;, score=0.744 total time=   0.2s
 [CV 3/5] END .....max_depth=30, n_estimators=50;, score=0.651 total time=   0.2s
-[CV 2/5] END .....max_depth=35, n_estimators=40;, score=0.709 total time=   0.1s
-[CV 3/5] END .....max_depth=35, n_estimators=40;, score=0.663 total time=   0.1s
-[CV 5/5] END .....max_depth=35, n_estimators=50;, score=0.659 total time=   0.2s
-[CV 1/5] END .....max_depth=40, n_estimators=30;, score=0.674 total time=   0.1s
-[CV 1/5] END .....max_depth=40, n_estimators=40;, score=0.686 total time=   0.1s
-[CV 2/5] END .....max_depth=40, n_estimators=40;, score=0.791 total time=   0.1s
-[CV 3/5] END .....max_depth=40, n_estimators=50;, score=0.709 total time=   0.1s
-[CV 2/5] END ................C=1, kernel=linear;, score=0.692 total time=   3.5s
-[CV 1/5] END ..................C=1, kernel=poly;, score=0.673 total time=   1.6s
-[CV 4/5] END ..................C=1, kernel=poly;, score=0.683 total time=   1.6s
-[CV 2/5] END ...............C=1, kernel=sigmoid;, score=0.592 total time=   1.6s
-[CV 1/5] END ...................C=1, kernel=rbf;, score=0.713 total time=   1.8s
-[CV 5/5] END ...................C=1, kernel=rbf;, score=0.725 total time=   1.8s
-[CV 4/5] END ...............C=10, kernel=linear;, score=0.702 total time=  32.8s
-[CV 5/5] END .................C=10, kernel=poly;, score=0.704 total time=   1.6s
-[CV 3/5] END ..............C=10, kernel=sigmoid;, score=0.540 total time=   1.3s
-[CV 1/5] END ..................C=10, kernel=rbf;, score=0.721 total time=   2.1s
-[CV 4/5] END ..................C=10, kernel=rbf;, score=0.740 total time=   2.1s
-[CV 2/5] END ..............C=100, kernel=linear;, score=0.681 total time= 5.8min
-[CV 1/5] END ................C=100, kernel=poly;, score=0.660 total time=   1.8s
-[CV 2/5] END ................C=100, kernel=poly;, score=0.679 total time=   1.7s
-[CV 4/5] END ................C=100, kernel=poly;, score=0.696 total time=   1.8s
-[CV 1/5] END .............C=100, kernel=sigmoid;, score=0.523 total time=   1.2s
-[CV 3/5] END .............C=100, kernel=sigmoid;, score=0.535 total time=   1.3s
-[CV 5/5] END .............C=100, kernel=sigmoid;, score=0.581 total time=   1.2s
-[CV 2/5] END .................C=100, kernel=rbf;, score=0.715 total time=   2.2s
+[CV 5/5] END .....max_depth=35, n_estimators=30;, score=0.718 total time=   0.1s
+[CV 1/5] END .....max_depth=35, n_estimators=40;, score=0.663 total time=   0.1s
+[CV 3/5] END .....max_depth=35, n_estimators=50;, score=0.663 total time=   0.2s
+[CV 4/5] END .....max_depth=35, n_estimators=50;, score=0.612 total time=   0.2s
+[CV 3/5] END .....max_depth=40, n_estimators=40;, score=0.663 total time=   0.1s
+[CV 4/5] END .....max_depth=40, n_estimators=40;, score=0.635 total time=   0.1s
+[CV 4/5] END .....max_depth=40, n_estimators=50;, score=0.694 total time=   0.2s
+[CV 2/5] END ................C=1, kernel=linear;, score=0.692 total time=   3.8s
+[CV 1/5] END ..................C=1, kernel=poly;, score=0.673 total time=   1.8s
+[CV 1/5] END ...............C=1, kernel=sigmoid;, score=0.554 total time=   1.7s
+[CV 4/5] END ...............C=1, kernel=sigmoid;, score=0.608 total time=   1.7s
+[CV 3/5] END ...................C=1, kernel=rbf;, score=0.731 total time=   1.8s
+[CV 2/5] END ...............C=10, kernel=linear;, score=0.685 total time=  32.8s
+[CV 2/5] END .................C=10, kernel=poly;, score=0.690 total time=   1.7s
+[CV 4/5] END .................C=10, kernel=poly;, score=0.710 total time=   1.8s
+[CV 1/5] END ..............C=10, kernel=sigmoid;, score=0.504 total time=   1.3s
+[CV 4/5] END ..............C=10, kernel=sigmoid;, score=0.579 total time=   1.5s
+[CV 2/5] END ..................C=10, kernel=rbf;, score=0.729 total time=   2.1s
+[CV 5/5] END ..................C=10, kernel=rbf;, score=0.704 total time=   2.2s
+[CV 3/5] END ..............C=100, kernel=linear;, score=0.704 total time= 5.8min
+[CV 2/5] END .................C=100, kernel=rbf;, score=0.715 total time=   2.1s
 [CV 4/5] END .................C=100, kernel=rbf;, score=0.729 total time=   2.2s
-[CV 1/5] END .....max_depth=25, n_estimators=30;, score=0.679 total time=   0.4s
-[CV 1/5] END .....max_depth=25, n_estimators=40;, score=0.671 total time=   0.6s
-[CV 5/5] END .....max_depth=25, n_estimators=40;, score=0.698 total time=   0.6s
-[CV 4/5] END .....max_depth=25, n_estimators=50;, score=0.692 total time=   0.7s
-[CV 4/5] END .....max_depth=30, n_estimators=30;, score=0.673 total time=   0.4s
-[CV 3/5] END .....max_depth=30, n_estimators=40;, score=0.671 total time=   0.6s
-[CV 2/5] END .....max_depth=30, n_estimators=50;, score=0.694 total time=   0.7s
-[CV 1/5] END .....max_depth=35, n_estimators=30;, score=0.671 total time=   0.4s
-[CV 4/5] END .....max_depth=35, n_estimators=30;, score=0.690 total time=   0.4s
-[CV 2/5] END .....max_depth=35, n_estimators=40;, score=0.669 total time=   0.6s
-[CV 2/5] END .....max_depth=35, n_estimators=50;, score=0.688 total time=   0.7s
-[CV 5/5] END .....max_depth=35, n_estimators=50;, score=0.673 total time=   0.7s
-[CV 1/5] END .....max_depth=40, n_estimators=40;, score=0.681 total time=   0.6s
-[CV 5/5] END .....max_depth=40, n_estimators=40;, score=0.696 total time=   0.6s
-[CV 4/5] END .....max_depth=40, n_estimators=50;, score=0.704 total time=   0.6s
-[CV 3/5] END ................C=1, kernel=linear;, score=0.638 total time=   0.1s
-[CV 5/5] END ................C=1, kernel=linear;, score=0.681 total time=   0.1s
-[CV 5/5] END ...............C=1, kernel=sigmoid;, score=0.372 total time=   0.1s
-[CV 1/5] END ...................C=1, kernel=rbf;, score=0.766 total time=   0.1s
-[CV 3/5] END ...............C=10, kernel=linear;, score=0.585 total time=   0.1s
-[CV 4/5] END ...............C=10, kernel=linear;, score=0.585 total time=   0.2s
-[CV 1/5] END ..............C=10, kernel=sigmoid;, score=0.383 total time=   0.1s
-[CV 2/5] END ..............C=10, kernel=sigmoid;, score=0.309 total time=   0.1s
+[CV 1/5] END .....max_depth=25, n_estimators=30;, score=0.677 total time=   0.4s
+[CV 3/5] END .....max_depth=25, n_estimators=40;, score=0.685 total time=   0.6s
+[CV 2/5] END .....max_depth=25, n_estimators=50;, score=0.677 total time=   0.7s
+[CV 1/5] END .....max_depth=30, n_estimators=30;, score=0.662 total time=   0.4s
+[CV 3/5] END .....max_depth=30, n_estimators=30;, score=0.681 total time=   0.4s
+[CV 2/5] END .....max_depth=30, n_estimators=40;, score=0.675 total time=   0.6s
+[CV 1/5] END .....max_depth=30, n_estimators=50;, score=0.673 total time=   0.7s
+[CV 5/5] END .....max_depth=30, n_estimators=50;, score=0.696 total time=   0.7s
+[CV 1/5] END .....max_depth=35, n_estimators=40;, score=0.673 total time=   0.6s
+[CV 5/5] END .....max_depth=35, n_estimators=40;, score=0.694 total time=   0.6s
+[CV 4/5] END .....max_depth=35, n_estimators=50;, score=0.706 total time=   0.7s
+[CV 3/5] END .....max_depth=40, n_estimators=30;, score=0.677 total time=   0.4s
+[CV 2/5] END .....max_depth=40, n_estimators=40;, score=0.683 total time=   0.6s
+[CV 1/5] END .....max_depth=40, n_estimators=50;, score=0.665 total time=   0.7s
+[CV 5/5] END .....max_depth=40, n_estimators=50;, score=0.688 total time=   0.5s
+[CV 4/5] END ................C=1, kernel=linear;, score=0.564 total time=   0.1s
+[CV 3/5] END ..................C=1, kernel=poly;, score=0.585 total time=   0.1s
+[CV 3/5] END ...............C=1, kernel=sigmoid;, score=0.404 total time=   0.1s
+[CV 4/5] END ...............C=1, kernel=sigmoid;, score=0.489 total time=   0.1s
+[CV 1/5] END ...............C=10, kernel=linear;, score=0.681 total time=   0.2s
+[CV 2/5] END ...............C=10, kernel=linear;, score=0.681 total time=   0.2s
+[CV 4/5] END .................C=10, kernel=poly;, score=0.723 total time=   0.1s
+[CV 5/5] END .................C=10, kernel=poly;, score=0.681 total time=   0.1s
 [CV 4/5] END ..................C=10, kernel=rbf;, score=0.766 total time=   0.1s
 [CV 5/5] END ..................C=10, kernel=rbf;, score=0.723 total time=   0.1s
-[CV 3/5] END ................C=1, kernel=linear;, score=0.530 total time=   1.0s
+[CV 2/5] END ................C=100, kernel=poly;, score=0.777 total time=   0.1s
+[CV 3/5] END ................C=100, kernel=poly;, score=0.745 total time=   0.1s
+[CV 3/5] END ................C=1, kernel=linear;, score=0.530 total time=   1.1s
 [CV 3/5] END ..................C=1, kernel=poly;, score=0.430 total time=   0.5s
 [CV 1/5] END ...............C=1, kernel=sigmoid;, score=0.420 total time=   0.6s
 [CV 5/5] END ...............C=1, kernel=sigmoid;, score=0.387 total time=   0.6s
-[CV 4/5] END ...................C=1, kernel=rbf;, score=0.578 total time=   0.6s
-[CV 3/5] END ...............C=10, kernel=linear;, score=0.565 total time=   5.0s
+[CV 4/5] END ...................C=1, kernel=rbf;, score=0.578 total time=   0.5s
+[CV 3/5] END ...............C=10, kernel=linear;, score=0.565 total time=   5.3s
 [CV 1/5] END .................C=10, kernel=poly;, score=0.615 total time=   0.5s
-[CV 3/5] END .................C=10, kernel=poly;, score=0.630 total time=   0.5s
-[CV 2/5] END ..............C=10, kernel=sigmoid;, score=0.333 total time=   0.4s
-[CV 4/5] END ..............C=10, kernel=sigmoid;, score=0.335 total time=   0.4s
-[CV 1/5] END ..................C=10, kernel=rbf;, score=0.697 total time=   0.7s
-[CV 5/5] END ..................C=10, kernel=rbf;, score=0.691 total time=   0.7s
-[CV 2/5] END ..............C=100, kernel=linear;, score=0.485 total time=  27.0s
-[CV 5/5] END ..............C=100, kernel=linear;, score=0.526 total time=  21.9s
-[CV 4/5] END .....max_depth=25, n_estimators=30;, score=0.483 total time=   0.2s
-[CV 3/5] END .....max_depth=25, n_estimators=40;, score=0.591 total time=   0.3s
-[CV 2/5] END .....max_depth=25, n_estimators=50;, score=0.558 total time=   0.4s
-[CV 1/5] END .....max_depth=30, n_estimators=30;, score=0.515 total time=   0.2s
-[CV 3/5] END .....max_depth=30, n_estimators=30;, score=0.596 total time=   0.2s
-[CV 2/5] END .....max_depth=30, n_estimators=40;, score=0.589 total time=   0.3s
-[CV 1/5] END .....max_depth=30, n_estimators=50;, score=0.550 total time=   0.4s
-[CV 5/5] END .....max_depth=30, n_estimators=50;, score=0.539 total time=   0.4s
-[CV 1/5] END .....max_depth=35, n_estimators=40;, score=0.515 total time=   0.3s
-[CV 5/5] END .....max_depth=35, n_estimators=40;, score=0.530 total time=   0.3s
-[CV 4/5] END .....max_depth=35, n_estimators=50;, score=0.591 total time=   0.4s
-[CV 3/5] END .....max_depth=40, n_estimators=30;, score=0.565 total time=   0.2s
-[CV 2/5] END .....max_depth=40, n_estimators=40;, score=0.524 total time=   0.3s
-[CV 1/5] END .....max_depth=40, n_estimators=50;, score=0.532 total time=   0.4s
-[CV 5/5] END .....max_depth=40, n_estimators=50;, score=0.526 total time=   0.3s
-[CV 4/5] END ................C=1, kernel=linear;, score=0.741 total time=   0.1s
+[CV 4/5] END .................C=10, kernel=poly;, score=0.617 total time=   0.5s
+[CV 2/5] END ..............C=10, kernel=sigmoid;, score=0.333 total time=   0.5s
+[CV 5/5] END ..............C=10, kernel=sigmoid;, score=0.304 total time=   0.5s
+[CV 3/5] END ..................C=10, kernel=rbf;, score=0.700 total time=   0.7s
+[CV 1/5] END ..............C=100, kernel=linear;, score=0.524 total time=  34.6s
+[CV 3/5] END .................C=100, kernel=rbf;, score=0.665 total time=   0.7s
+[CV 1/5] END .....max_depth=25, n_estimators=30;, score=0.519 total time=   0.2s
+[CV 2/5] END .....max_depth=25, n_estimators=40;, score=0.545 total time=   0.3s
+[CV 1/5] END .....max_depth=25, n_estimators=50;, score=0.550 total time=   0.4s
+[CV 5/5] END .....max_depth=25, n_estimators=50;, score=0.565 total time=   0.4s
+[CV 5/5] END .....max_depth=30, n_estimators=30;, score=0.535 total time=   0.2s
+[CV 4/5] END .....max_depth=30, n_estimators=40;, score=0.548 total time=   0.3s
+[CV 3/5] END .....max_depth=30, n_estimators=50;, score=0.609 total time=   0.4s
+[CV 2/5] END .....max_depth=35, n_estimators=30;, score=0.554 total time=   0.2s
+[CV 5/5] END .....max_depth=35, n_estimators=30;, score=0.565 total time=   0.2s
+[CV 4/5] END .....max_depth=35, n_estimators=40;, score=0.552 total time=   0.3s
+[CV 3/5] END .....max_depth=35, n_estimators=50;, score=0.565 total time=   0.4s
+[CV 2/5] END .....max_depth=40, n_estimators=30;, score=0.524 total time=   0.2s
+[CV 5/5] END .....max_depth=40, n_estimators=30;, score=0.504 total time=   0.2s
+[CV 4/5] END .....max_depth=40, n_estimators=40;, score=0.522 total time=   0.3s
+[CV 3/5] END .....max_depth=40, n_estimators=50;, score=0.626 total time=   0.3s
+[CV 2/5] END ................C=1, kernel=linear;, score=0.686 total time=   0.1s
 [CV 3/5] END ..................C=1, kernel=poly;, score=0.640 total time=   0.1s
 [CV 5/5] END ...............C=1, kernel=sigmoid;, score=0.659 total time=   0.1s
 [CV 1/5] END ...................C=1, kernel=rbf;, score=0.709 total time=   0.1s
@@ -858,49 +779,49 @@ Processing the PCA models
 [CV 3/5] END .................C=10, kernel=poly;, score=0.802 total time=   0.1s
 [CV 2/5] END ..................C=10, kernel=rbf;, score=0.779 total time=   0.1s
 [CV 3/5] END ..................C=10, kernel=rbf;, score=0.756 total time=   0.1s
-[CV 5/5] END ..............C=100, kernel=linear;, score=0.694 total time=   0.1s
-[CV 1/5] END ................C=100, kernel=poly;, score=0.733 total time=   0.1s
-[CV 3/5] END .............C=100, kernel=sigmoid;, score=0.640 total time=   0.1s
-[CV 4/5] END .............C=100, kernel=sigmoid;, score=0.565 total time=   0.1s
-[CV 4/5] END .................C=100, kernel=rbf;, score=0.753 total time=   0.1s
-[CV 3/5] END .....max_depth=25, n_estimators=30;, score=0.674 total time=   0.1s
-[CV 1/5] END .....max_depth=25, n_estimators=40;, score=0.721 total time=   0.1s
-[CV 1/5] END .....max_depth=25, n_estimators=50;, score=0.686 total time=   0.2s
-[CV 2/5] END .....max_depth=25, n_estimators=50;, score=0.709 total time=   0.2s
-[CV 1/5] END .....max_depth=30, n_estimators=40;, score=0.640 total time=   0.1s
-[CV 2/5] END .....max_depth=30, n_estimators=40;, score=0.640 total time=   0.1s
-[CV 1/5] END .....max_depth=35, n_estimators=30;, score=0.686 total time=   0.1s
-[CV 2/5] END .....max_depth=35, n_estimators=30;, score=0.744 total time=   0.1s
-[CV 5/5] END .....max_depth=35, n_estimators=30;, score=0.659 total time=   0.1s
-[CV 1/5] END .....max_depth=35, n_estimators=40;, score=0.640 total time=   0.1s
-[CV 3/5] END .....max_depth=35, n_estimators=50;, score=0.698 total time=   0.2s
-[CV 4/5] END .....max_depth=35, n_estimators=50;, score=0.647 total time=   0.2s
-[CV 3/5] END .....max_depth=40, n_estimators=40;, score=0.674 total time=   0.1s
-[CV 4/5] END .....max_depth=40, n_estimators=40;, score=0.671 total time=   0.1s
-[CV 4/5] END .....max_depth=40, n_estimators=50;, score=0.635 total time=   0.2s
-[CV 3/5] END ................C=1, kernel=linear;, score=0.713 total time=   3.6s
-[CV 2/5] END ..................C=1, kernel=poly;, score=0.696 total time=   1.6s
+[CV 2/5] END ................C=100, kernel=poly;, score=0.698 total time=   0.1s
+[CV 3/5] END ................C=100, kernel=poly;, score=0.756 total time=   0.1s
+[CV 5/5] END .............C=100, kernel=sigmoid;, score=0.659 total time=   0.1s
+[CV 1/5] END .................C=100, kernel=rbf;, score=0.733 total time=   0.1s
+[CV 2/5] END .....max_depth=25, n_estimators=30;, score=0.674 total time=   0.1s
+[CV 3/5] END .....max_depth=25, n_estimators=40;, score=0.674 total time=   0.1s
+[CV 5/5] END .....max_depth=25, n_estimators=50;, score=0.729 total time=   0.2s
+[CV 1/5] END .....max_depth=30, n_estimators=30;, score=0.640 total time=   0.1s
+[CV 4/5] END .....max_depth=30, n_estimators=30;, score=0.647 total time=   0.1s
+[CV 5/5] END .....max_depth=30, n_estimators=30;, score=0.706 total time=   0.1s
+[CV 5/5] END .....max_depth=30, n_estimators=40;, score=0.706 total time=   0.1s
+[CV 1/5] END .....max_depth=30, n_estimators=50;, score=0.674 total time=   0.2s
+[CV 3/5] END .....max_depth=35, n_estimators=30;, score=0.640 total time=   0.1s
+[CV 4/5] END .....max_depth=35, n_estimators=30;, score=0.682 total time=   0.1s
+[CV 1/5] END .....max_depth=35, n_estimators=50;, score=0.616 total time=   0.2s
+[CV 2/5] END .....max_depth=35, n_estimators=50;, score=0.709 total time=   0.2s
+[CV 4/5] END .....max_depth=40, n_estimators=30;, score=0.647 total time=   0.1s
+[CV 5/5] END .....max_depth=40, n_estimators=30;, score=0.659 total time=   0.1s
+[CV 2/5] END .....max_depth=40, n_estimators=50;, score=0.721 total time=   0.2s
+[CV 5/5] END .....max_depth=40, n_estimators=50;, score=0.706 total time=   0.1s
+[CV 4/5] END ................C=1, kernel=linear;, score=0.717 total time=   3.8s
+[CV 3/5] END ..................C=1, kernel=poly;, score=0.688 total time=   1.7s
 [CV 5/5] END ..................C=1, kernel=poly;, score=0.681 total time=   1.5s
-[CV 3/5] END ...............C=1, kernel=sigmoid;, score=0.592 total time=   1.6s
+[CV 2/5] END ...............C=1, kernel=sigmoid;, score=0.592 total time=   1.6s
 [CV 2/5] END ...................C=1, kernel=rbf;, score=0.729 total time=   1.8s
-[CV 1/5] END ...............C=10, kernel=linear;, score=0.702 total time=  29.6s
-[CV 5/5] END ...............C=10, kernel=linear;, score=0.723 total time=  37.7s
-[CV 4/5] END ..............C=100, kernel=linear;, score=0.700 total time= 5.9min
-[CV 3/5] END .....max_depth=25, n_estimators=30;, score=0.681 total time=   0.4s
-[CV 5/5] END .....max_depth=25, n_estimators=30;, score=0.679 total time=   0.4s
-[CV 4/5] END .....max_depth=25, n_estimators=40;, score=0.690 total time=   0.6s
-[CV 3/5] END .....max_depth=25, n_estimators=50;, score=0.671 total time=   0.7s
-[CV 2/5] END .....max_depth=30, n_estimators=30;, score=0.683 total time=   0.4s
-[CV 2/5] END .....max_depth=30, n_estimators=40;, score=0.688 total time=   0.6s
-[CV 1/5] END .....max_depth=30, n_estimators=50;, score=0.688 total time=   0.7s
-[CV 5/5] END .....max_depth=30, n_estimators=50;, score=0.694 total time=   0.7s
-[CV 5/5] END .....max_depth=35, n_estimators=30;, score=0.675 total time=   0.4s
-[CV 4/5] END .....max_depth=35, n_estimators=40;, score=0.717 total time=   0.6s
-[CV 3/5] END .....max_depth=35, n_estimators=50;, score=0.679 total time=   0.7s
-[CV 2/5] END .....max_depth=40, n_estimators=30;, score=0.690 total time=   0.4s
-[CV 5/5] END .....max_depth=40, n_estimators=30;, score=0.683 total time=   0.4s
-[CV 4/5] END .....max_depth=40, n_estimators=40;, score=0.690 total time=   0.6s
-[CV 3/5] END .....max_depth=40, n_estimators=50;, score=0.679 total time=   0.7s
+[CV 1/5] END ...............C=10, kernel=linear;, score=0.702 total time=  30.3s
+[CV 5/5] END ...............C=10, kernel=linear;, score=0.723 total time=  34.0s
+[CV 4/5] END ..............C=100, kernel=linear;, score=0.700 total time= 6.0min
+[CV 3/5] END .....max_depth=25, n_estimators=30;, score=0.694 total time=   0.4s
+[CV 1/5] END .....max_depth=25, n_estimators=40;, score=0.681 total time=   0.6s
+[CV 1/5] END .....max_depth=25, n_estimators=50;, score=0.685 total time=   0.7s
+[CV 5/5] END .....max_depth=25, n_estimators=50;, score=0.692 total time=   0.7s
+[CV 5/5] END .....max_depth=30, n_estimators=30;, score=0.669 total time=   0.4s
+[CV 4/5] END .....max_depth=30, n_estimators=40;, score=0.688 total time=   0.6s
+[CV 3/5] END .....max_depth=30, n_estimators=50;, score=0.675 total time=   0.7s
+[CV 2/5] END .....max_depth=35, n_estimators=30;, score=0.690 total time=   0.4s
+[CV 5/5] END .....max_depth=35, n_estimators=30;, score=0.698 total time=   0.4s
+[CV 4/5] END .....max_depth=35, n_estimators=40;, score=0.690 total time=   0.6s
+[CV 3/5] END .....max_depth=35, n_estimators=50;, score=0.667 total time=   0.7s
+[CV 2/5] END .....max_depth=40, n_estimators=30;, score=0.698 total time=   0.4s
+[CV 5/5] END .....max_depth=40, n_estimators=30;, score=0.671 total time=   0.4s
+[CV 4/5] END .....max_depth=40, n_estimators=40;, score=0.696 total time=   0.6s
+[CV 3/5] END .....max_depth=40, n_estimators=50;, score=0.685 total time=   0.7s
 [CV 2/5] END ................C=1, kernel=linear;, score=0.670 total time=   0.1s
 [CV 1/5] END ..................C=1, kernel=poly;, score=0.617 total time=   0.1s
 [CV 4/5] END ..................C=1, kernel=poly;, score=0.596 total time=   0.1s
@@ -909,325 +830,314 @@ Processing the PCA models
 [CV 3/5] END ...................C=1, kernel=rbf;, score=0.713 total time=   0.1s
 [CV 5/5] END ...............C=10, kernel=linear;, score=0.681 total time=   0.2s
 [CV 1/5] END .................C=10, kernel=poly;, score=0.755 total time=   0.1s
-[CV 3/5] END ..............C=10, kernel=sigmoid;, score=0.319 total time=   0.1s
-[CV 4/5] END ..............C=10, kernel=sigmoid;, score=0.362 total time=   0.1s
-[CV 1/5] END ..............C=100, kernel=linear;, score=0.681 total time=   0.2s
-[CV 2/5] END ..............C=100, kernel=linear;, score=0.670 total time=   0.1s
-[CV 4/5] END ................C=100, kernel=poly;, score=0.745 total time=   0.1s
-[CV 5/5] END ................C=100, kernel=poly;, score=0.713 total time=   0.1s
-[CV 2/5] END .................C=100, kernel=rbf;, score=0.862 total time=   0.1s
-[CV 1/5] END .....max_depth=25, n_estimators=30;, score=0.702 total time=   0.1s
-[CV 1/5] END .....max_depth=25, n_estimators=40;, score=0.766 total time=   0.1s
-[CV 1/5] END .....max_depth=25, n_estimators=50;, score=0.734 total time=   0.2s
-[CV 2/5] END .....max_depth=25, n_estimators=50;, score=0.713 total time=   0.2s
-PCA level: 10 SVC score: 0.6766666666666666 RF score: 0.66 Voting score: 0.335
-PCA level: 15 SVC score: 0.7016666666666667 RF score: 0.6766666666666666 Voting score: 0.3283333333333333
-PCA level: 20 SVC score: 0.7 RF score: 0.68 Voting score: 0.335
-PCA level: 25 SVC score: 0.71 RF score: 0.6783333333333333 Voting score: 0.3333333333333333
-PCA level: 30 SVC score: 0.7016666666666667 RF score: 0.6733333333333333 Voting score: 0.3433333333333333
-PCA level: 35 SVC score: 0.6983333333333334 RF score: 0.655 Voting score: 0.33666666666666667
-PCA level: 40 SVC score: 0.7233333333333334 RF score: 0.6866666666666666 Voting score: 0.3416666666666667
-PCA level: 45 SVC score: 0.725 RF score: 0.675 Voting score: 0.34
-PCA level: 50 SVC score: 0.7283333333333334 RF score: 0.67 Voting score: 0.345
-PCA level: 52 SVC score: 0.7333333333333333 RF score: 0.685 Voting score: 0.3416666666666667
-{"ok":true,"result":{"message_id":19503,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044788,"text":"Persian_ done"}}
+[CV 5/5] END ..............C=10, kernel=sigmoid;, score=0.362 total time=   0.1s
+[CV 1/5] END ..................C=10, kernel=rbf;, score=0.809 total time=   0.1s
+[CV 3/5] END ..............C=100, kernel=linear;, score=0.585 total time=   0.1s
+[CV 4/5] END ..............C=100, kernel=linear;, score=0.585 total time=   0.1s
+[CV 1/5] END .............C=100, kernel=sigmoid;, score=0.362 total time=   0.1s
+[CV 2/5] END .............C=100, kernel=sigmoid;, score=0.277 total time=   0.1s
+[CV 3/5] END .................C=100, kernel=rbf;, score=0.798 total time=   0.1s
+[CV 1/5] END .....max_depth=25, n_estimators=30;, score=0.723 total time=   0.1s
+[CV 2/5] END .....max_depth=25, n_estimators=40;, score=0.638 total time=   0.1s
+[CV 3/5] END .....max_depth=25, n_estimators=50;, score=0.702 total time=   0.2s
+[CV 4/5] END .....max_depth=25, n_estimators=50;, score=0.755 total time=   0.2s
+[CV 3/5] END .....max_depth=30, n_estimators=40;, score=0.723 total time=   0.1s
+PCA level: 10 SVC score: 0.6766666666666666 RF score: 0.6566666666666666 Voting score: 0.3416666666666667
+PCA level: 15 SVC score: 0.7016666666666667 RF score: 0.665 Voting score: 0.33
+PCA level: 20 SVC score: 0.7 RF score: 0.675 Voting score: 0.3333333333333333
+PCA level: 25 SVC score: 0.71 RF score: 0.6816666666666666 Voting score: 0.3383333333333333
+PCA level: 30 SVC score: 0.7016666666666667 RF score: 0.6666666666666666 Voting score: 0.3333333333333333
+PCA level: 35 SVC score: 0.6983333333333334 RF score: 0.665 Voting score: 0.335
+PCA level: 40 SVC score: 0.7233333333333334 RF score: 0.6733333333333333 Voting score: 0.3416666666666667
+PCA level: 45 SVC score: 0.725 RF score: 0.6633333333333333 Voting score: 0.3433333333333333
+PCA level: 50 SVC score: 0.7283333333333334 RF score: 0.6783333333333333 Voting score: 0.3416666666666667
+PCA level: 52 SVC score: 0.7333333333333333 RF score: 0.6766666666666666 Voting score: 0.3383333333333333
+{"ok":true,"result":{"message_id":19566,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677050724,"text":"Persian_ done"}}
 Fitting 5 folds for each of 12 candidates, totalling 60 fits
 Base SVC score: 0.8728813559322034
 Fitting 5 folds for each of 12 candidates, totalling 60 fits
-Base RF score: 0.7627118644067796
-Base Voting score: 0.8728813559322034
-{"ok":true,"result":{"message_id":19504,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044796,"text":"Base Done for Italian_ with 0.8728813559322034"}}
+Base RF score: 0.7542372881355932
+Base Voting score: 0.8898305084745762
+{"ok":true,"result":{"message_id":19567,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677050729,"text":"Base Done for Italian_ with 0.8898305084745762"}}
 Processing the PCA models
-15 SVC score 0.7627118644067796
-15 RF score 0.6779661016949152
-15 voting score 0.7711864406779662
-{"ok":true,"result":{"message_id":19507,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044802,"text":"Italian_ 15 done with 0.7711864406779662"}}
-40 SVC score 0.7203389830508474
-40 RF score 0.6949152542372882
-40 voting score 0.7203389830508474
-{"ok":true,"result":{"message_id":19510,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044810,"text":"Italian_ 40 done with 0.7203389830508474"}}
-25 SVC score 0.8220338983050848
-25 RF score 0.7457627118644068
-25 voting score 0.8220338983050848
-{"ok":true,"result":{"message_id":19508,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044802,"text":"Italian_ 25 done with 0.8220338983050848"}}
-45 SVC score 0.6864406779661016
-45 RF score 0.7203389830508474
-45 voting score 0.7203389830508474
-{"ok":true,"result":{"message_id":19511,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044810,"text":"Italian_ 45 done with 0.7203389830508474"}}
 20 SVC score 0.788135593220339
-20 RF score 0.711864406779661
-20 voting score 0.7966101694915254
-{"ok":true,"result":{"message_id":19506,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044802,"text":"Italian_ 20 done with 0.7966101694915254"}}
-35 SVC score 0.7711864406779662
-35 RF score 0.711864406779661
-35 voting score 0.7796610169491526
-HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot5765471758:AAFPzn2Z2gbbe0sp6yurqxwbSmYrrGanla4/sendMessage (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f95ec617460>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+20 RF score 0.6610169491525424
+20 voting score 0.8050847457627118
+{"ok":true,"result":{"message_id":19570,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677050729,"text":"Italian_ 20 done with 0.8050847457627118"}}
+40 SVC score 0.7203389830508474
+40 RF score 0.6864406779661016
+40 voting score 0.7288135593220338
+{"ok":true,"result":{"message_id":19574,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677050730,"text":"Italian_ 40 done with 0.7288135593220338"}}
+25 SVC score 0.8220338983050848
+25 RF score 0.7372881355932204
+25 voting score 0.8389830508474576
+{"ok":true,"result":{"message_id":19571,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677050729,"text":"Italian_ 25 done with 0.8389830508474576"}}
+45 SVC score 0.6864406779661016
+45 RF score 0.6610169491525424
+45 voting score 0.7203389830508474
+{"ok":true,"result":{"message_id":19575,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677050730,"text":"Italian_ 45 done with 0.7203389830508474"}}
+10 SVC score 0.6610169491525424
+10 RF score 0.6440677966101694
+10 voting score 0.6779661016949152
+{"ok":true,"result":{"message_id":19568,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677050729,"text":"Italian_ 10 done with 0.6779661016949152"}}
+30 SVC score 0.8135593220338984
+30 RF score 0.8050847457627118
+30 voting score 0.8135593220338984
+{"ok":true,"result":{"message_id":19572,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677050730,"text":"Italian_ 30 done with 0.8135593220338984"}}
 50 SVC score 0.6949152542372882
-50 RF score 0.6779661016949152
-50 voting score 0.7203389830508474
-{"ok":true,"result":{"message_id":19512,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044815,"text":"Italian_ 50 done with 0.7203389830508474"}}
-[CV 4/5] END .................C=10, kernel=poly;, score=0.723 total time=   0.1s
-[CV 5/5] END .................C=10, kernel=poly;, score=0.681 total time=   0.1s
+50 RF score 0.711864406779661
+50 voting score 0.711864406779661
+{"ok":true,"result":{"message_id":19576,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677050731,"text":"Italian_ 50 done with 0.711864406779661"}}
+[CV 4/5] END .....max_depth=30, n_estimators=40;, score=0.723 total time=   0.1s
+[CV 1/5] END .....max_depth=35, n_estimators=30;, score=0.723 total time=   0.1s
+[CV 2/5] END .....max_depth=35, n_estimators=30;, score=0.649 total time=   0.1s
+[CV 2/5] END .....max_depth=35, n_estimators=40;, score=0.681 total time=   0.1s
+[CV 3/5] END .....max_depth=35, n_estimators=40;, score=0.702 total time=   0.1s
+[CV 5/5] END .....max_depth=35, n_estimators=50;, score=0.638 total time=   0.2s
+[CV 1/5] END .....max_depth=40, n_estimators=30;, score=0.777 total time=   0.1s
+[CV 1/5] END .....max_depth=40, n_estimators=40;, score=0.702 total time=   0.1s
+[CV 2/5] END .....max_depth=40, n_estimators=40;, score=0.681 total time=   0.1s
+[CV 3/5] END .....max_depth=40, n_estimators=50;, score=0.649 total time=   0.2s
+[CV 2/5] END ................C=1, kernel=linear;, score=0.657 total time=  14.2s
+[CV 3/5] END ..................C=1, kernel=poly;, score=0.753 total time=   7.8s
+[CV 1/5] END ...............C=1, kernel=sigmoid;, score=0.385 total time=   9.1s
+[CV 5/5] END ...............C=1, kernel=sigmoid;, score=0.380 total time=   8.8s
+[CV 4/5] END ...................C=1, kernel=rbf;, score=0.804 total time=   8.4s
+[CV 3/5] END ...............C=10, kernel=linear;, score=0.645 total time= 1.6min
+[CV 2/5] END .................C=10, kernel=poly;, score=0.861 total time=   6.4s
+[CV 5/5] END .................C=10, kernel=poly;, score=0.837 total time=   6.1s
+[CV 3/5] END ..............C=10, kernel=sigmoid;, score=0.387 total time=   6.7s
+[CV 1/5] END ..................C=10, kernel=rbf;, score=0.901 total time=   7.7s
+[CV 4/5] END ..................C=10, kernel=rbf;, score=0.906 total time=   7.6s
+[CV 2/5] END ..............C=100, kernel=linear;, score=0.646 total time=16.3min
+[CV 1/5] END ................C=100, kernel=poly;, score=0.850 total time=   5.7s
+[CV 2/5] END ................C=100, kernel=poly;, score=0.859 total time=   5.8s
+[CV 3/5] END ................C=100, kernel=poly;, score=0.844 total time=   5.7s
+[CV 4/5] END ................C=100, kernel=poly;, score=0.843 total time=   5.7s
+[CV 1/5] END .............C=100, kernel=sigmoid;, score=0.363 total time=   5.9s
+[CV 3/5] END .............C=100, kernel=sigmoid;, score=0.389 total time=   5.7s
+[CV 5/5] END .............C=100, kernel=sigmoid;, score=0.355 total time=   5.8s
+[CV 2/5] END .................C=100, kernel=rbf;, score=0.913 total time=   7.3s
+[CV 4/5] END .................C=100, kernel=rbf;, score=0.925 total time=   7.3s
+[CV 3/5] END .............C=100, kernel=sigmoid;, score=0.277 total time=   0.1s
+[CV 4/5] END .............C=100, kernel=sigmoid;, score=0.351 total time=   0.1s
+[CV 4/5] END .................C=100, kernel=rbf;, score=0.755 total time=   0.1s
+[CV 3/5] END .....max_depth=25, n_estimators=30;, score=0.585 total time=   0.1s
+[CV 5/5] END .....max_depth=25, n_estimators=30;, score=0.585 total time=   0.1s
+[CV 4/5] END .....max_depth=25, n_estimators=40;, score=0.755 total time=   0.1s
+[CV 5/5] END .....max_depth=25, n_estimators=40;, score=0.638 total time=   0.1s
+[CV 2/5] END .....max_depth=30, n_estimators=30;, score=0.585 total time=   0.1s
+[CV 3/5] END .....max_depth=30, n_estimators=30;, score=0.670 total time=   0.1s
+[CV 5/5] END .....max_depth=30, n_estimators=40;, score=0.638 total time=   0.1s
+[CV 1/5] END .....max_depth=30, n_estimators=50;, score=0.713 total time=   0.2s
+[CV 3/5] END .....max_depth=35, n_estimators=30;, score=0.681 total time=   0.1s
+[CV 4/5] END .....max_depth=35, n_estimators=30;, score=0.723 total time=   0.1s
+[CV 1/5] END .....max_depth=35, n_estimators=50;, score=0.723 total time=   0.2s
+[CV 2/5] END .....max_depth=35, n_estimators=50;, score=0.606 total time=   0.2s
+[CV 4/5] END .....max_depth=40, n_estimators=30;, score=0.660 total time=   0.1s
+[CV 5/5] END .....max_depth=40, n_estimators=30;, score=0.596 total time=   0.1s
+[CV 2/5] END .....max_depth=40, n_estimators=50;, score=0.670 total time=   0.2s
+[CV 5/5] END .....max_depth=40, n_estimators=50;, score=0.681 total time=   0.2s
+[CV 4/5] END ................C=1, kernel=linear;, score=0.647 total time=  13.8s
+[CV 1/5] END ..................C=1, kernel=poly;, score=0.762 total time=   7.9s
+[CV 5/5] END ..................C=1, kernel=poly;, score=0.747 total time=   7.7s
+[CV 4/5] END ...............C=1, kernel=sigmoid;, score=0.413 total time=   8.9s
+[CV 3/5] END ...................C=1, kernel=rbf;, score=0.790 total time=   8.4s
+[CV 2/5] END ...............C=10, kernel=linear;, score=0.649 total time= 1.7min
+[CV 3/5] END .................C=10, kernel=poly;, score=0.847 total time=   6.5s
+[CV 1/5] END ..............C=10, kernel=sigmoid;, score=0.386 total time=   6.8s
+[CV 4/5] END ..............C=10, kernel=sigmoid;, score=0.396 total time=   6.7s
+[CV 2/5] END ..................C=10, kernel=rbf;, score=0.903 total time=   7.7s
+[CV 5/5] END ..................C=10, kernel=rbf;, score=0.899 total time=   7.6s
+[CV 3/5] END ..............C=100, kernel=linear;, score=0.643 total time=16.6min
+[CV 5/5] END ................C=100, kernel=poly;, score=0.848 total time=   6.0s
+[CV 2/5] END .............C=100, kernel=sigmoid;, score=0.384 total time=   6.2s
+[CV 4/5] END .............C=100, kernel=sigmoid;, score=0.391 total time=   6.3s
+[CV 1/5] END .................C=100, kernel=rbf;, score=0.907 total time=   7.6s
+[CV 3/5] END .................C=100, kernel=rbf;, score=0.905 total time=   7.5s
+[CV 5/5] END .................C=100, kernel=rbf;, score=0.898 total time=   7.5s
+[CV 1/5] END ...................C=1, kernel=rbf;, score=0.766 total time=   0.1s
+[CV 3/5] END ...............C=10, kernel=linear;, score=0.585 total time=   0.2s
+[CV 4/5] END ...............C=10, kernel=linear;, score=0.585 total time=   0.1s
+[CV 1/5] END ..............C=10, kernel=sigmoid;, score=0.383 total time=   0.1s
+[CV 2/5] END ..............C=10, kernel=sigmoid;, score=0.309 total time=   0.1s
 [CV 2/5] END ..................C=10, kernel=rbf;, score=0.862 total time=   0.1s
 [CV 3/5] END ..................C=10, kernel=rbf;, score=0.798 total time=   0.1s
 [CV 5/5] END ..............C=100, kernel=linear;, score=0.681 total time=   0.2s
 [CV 1/5] END ................C=100, kernel=poly;, score=0.766 total time=   0.1s
 [CV 5/5] END .............C=100, kernel=sigmoid;, score=0.340 total time=   0.1s
 [CV 1/5] END .................C=100, kernel=rbf;, score=0.809 total time=   0.1s
-[CV 5/5] END .................C=100, kernel=rbf;, score=0.723 total time=   0.1s
-[CV 4/5] END .....max_depth=25, n_estimators=30;, score=0.755 total time=   0.1s
-[CV 3/5] END .....max_depth=25, n_estimators=40;, score=0.670 total time=   0.1s
-[CV 5/5] END .....max_depth=25, n_estimators=50;, score=0.638 total time=   0.2s
-[CV 1/5] END .....max_depth=30, n_estimators=30;, score=0.691 total time=   0.1s
-[CV 4/5] END .....max_depth=30, n_estimators=30;, score=0.702 total time=   0.1s
-[CV 5/5] END .....max_depth=30, n_estimators=30;, score=0.649 total time=   0.1s
-[CV 2/5] END .....max_depth=30, n_estimators=50;, score=0.660 total time=   0.2s
-[CV 3/5] END .....max_depth=30, n_estimators=50;, score=0.734 total time=   0.2s
-[CV 2/5] END .....max_depth=35, n_estimators=40;, score=0.585 total time=   0.1s
-[CV 3/5] END .....max_depth=35, n_estimators=40;, score=0.638 total time=   0.1s
-[CV 5/5] END .....max_depth=35, n_estimators=50;, score=0.660 total time=   0.2s
-[CV 1/5] END .....max_depth=40, n_estimators=30;, score=0.745 total time=   0.1s
-[CV 1/5] END .....max_depth=40, n_estimators=40;, score=0.734 total time=   0.1s
-[CV 2/5] END .....max_depth=40, n_estimators=40;, score=0.670 total time=   0.1s
-[CV 3/5] END .....max_depth=40, n_estimators=50;, score=0.713 total time=   0.2s
-[CV 3/5] END ................C=1, kernel=linear;, score=0.649 total time=  13.8s
-[CV 5/5] END ................C=1, kernel=linear;, score=0.620 total time=  14.2s
+[CV 2/5] END .....max_depth=25, n_estimators=30;, score=0.649 total time=   0.1s
+[CV 3/5] END .....max_depth=25, n_estimators=40;, score=0.649 total time=   0.1s
+[CV 5/5] END .....max_depth=25, n_estimators=50;, score=0.649 total time=   0.2s
+[CV 1/5] END .....max_depth=30, n_estimators=30;, score=0.713 total time=   0.1s
+[CV 4/5] END .....max_depth=30, n_estimators=30;, score=0.734 total time=   0.1s
+[CV 5/5] END .....max_depth=30, n_estimators=30;, score=0.628 total time=   0.1s
+[CV 2/5] END .....max_depth=30, n_estimators=50;, score=0.681 total time=   0.2s
+[CV 3/5] END .....max_depth=30, n_estimators=50;, score=0.681 total time=   0.2s
+[CV 5/5] END .....max_depth=35, n_estimators=30;, score=0.649 total time=   0.1s
+[CV 1/5] END .....max_depth=35, n_estimators=40;, score=0.713 total time=   0.1s
+[CV 3/5] END .....max_depth=35, n_estimators=50;, score=0.670 total time=   0.2s
+[CV 4/5] END .....max_depth=35, n_estimators=50;, score=0.777 total time=   0.2s
+[CV 3/5] END .....max_depth=40, n_estimators=40;, score=0.670 total time=   0.1s
+[CV 4/5] END .....max_depth=40, n_estimators=40;, score=0.734 total time=   0.1s
+[CV 4/5] END .....max_depth=40, n_estimators=50;, score=0.734 total time=   0.2s
+[CV 3/5] END ................C=1, kernel=linear;, score=0.649 total time=  13.5s
+[CV 5/5] END ................C=1, kernel=linear;, score=0.620 total time=  13.4s
 [CV 2/5] END ...............C=1, kernel=sigmoid;, score=0.404 total time=   9.0s
-[CV 1/5] END ...................C=1, kernel=rbf;, score=0.806 total time=   8.4s
+[CV 1/5] END ...................C=1, kernel=rbf;, score=0.806 total time=   8.2s
 [CV 5/5] END ...................C=1, kernel=rbf;, score=0.787 total time=   8.0s
-[CV 4/5] END ...............C=10, kernel=linear;, score=0.636 total time= 1.7min
-[CV 4/5] END .................C=10, kernel=poly;, score=0.844 total time=   6.0s
-[CV 2/5] END ..............C=10, kernel=sigmoid;, score=0.379 total time=   6.7s
-[CV 5/5] END ..............C=10, kernel=sigmoid;, score=0.351 total time=   6.5s
-[CV 3/5] END ..................C=10, kernel=rbf;, score=0.904 total time=   7.5s
-[CV 5/5] END ..................C=10, kernel=rbf;, score=0.899 total time=   7.6s
-[CV 3/5] END ..............C=100, kernel=linear;, score=0.643 total time=16.4min
-[CV 1/5] END ................C=100, kernel=poly;, score=0.850 total time=   5.9s
-[CV 2/5] END ................C=100, kernel=poly;, score=0.859 total time=   6.1s
-[CV 3/5] END ................C=100, kernel=poly;, score=0.844 total time=   5.9s
-[CV 4/5] END ................C=100, kernel=poly;, score=0.843 total time=   6.2s
-[CV 5/5] END ................C=100, kernel=poly;, score=0.848 total time=   6.2s
-[CV 1/5] END .............C=100, kernel=sigmoid;, score=0.363 total time=   6.4s
-[CV 2/5] END .............C=100, kernel=sigmoid;, score=0.384 total time=   6.5s
-[CV 4/5] END .............C=100, kernel=sigmoid;, score=0.391 total time=   6.3s
-[CV 1/5] END .................C=100, kernel=rbf;, score=0.907 total time=   7.8s
-[CV 3/5] END .................C=100, kernel=rbf;, score=0.905 total time=   8.4s
-[CV 2/5] END ................C=100, kernel=poly;, score=0.777 total time=   0.1s
-[CV 3/5] END ................C=100, kernel=poly;, score=0.745 total time=   0.1s
-[CV 3/5] END .............C=100, kernel=sigmoid;, score=0.277 total time=   0.1s
-[CV 4/5] END .............C=100, kernel=sigmoid;, score=0.351 total time=   0.1s
-[CV 4/5] END .................C=100, kernel=rbf;, score=0.755 total time=   0.1s
-[CV 3/5] END .....max_depth=25, n_estimators=30;, score=0.702 total time=   0.1s
-[CV 5/5] END .....max_depth=25, n_estimators=30;, score=0.617 total time=   0.1s
-[CV 4/5] END .....max_depth=25, n_estimators=40;, score=0.798 total time=   0.1s
-[CV 5/5] END .....max_depth=25, n_estimators=40;, score=0.681 total time=   0.1s
-[CV 2/5] END .....max_depth=30, n_estimators=30;, score=0.606 total time=   0.1s
-[CV 3/5] END .....max_depth=30, n_estimators=30;, score=0.670 total time=   0.1s
-[CV 5/5] END .....max_depth=30, n_estimators=40;, score=0.617 total time=   0.1s
-[CV 1/5] END .....max_depth=30, n_estimators=50;, score=0.777 total time=   0.2s
-[CV 3/5] END .....max_depth=35, n_estimators=30;, score=0.681 total time=   0.1s
-[CV 4/5] END .....max_depth=35, n_estimators=30;, score=0.734 total time=   0.1s
-[CV 1/5] END .....max_depth=35, n_estimators=50;, score=0.777 total time=   0.2s
-[CV 2/5] END .....max_depth=35, n_estimators=50;, score=0.713 total time=   0.2s
-[CV 4/5] END .....max_depth=40, n_estimators=30;, score=0.702 total time=   0.1s
-[CV 5/5] END .....max_depth=40, n_estimators=30;, score=0.670 total time=   0.1s
-[CV 2/5] END .....max_depth=40, n_estimators=50;, score=0.702 total time=   0.2s
-[CV 5/5] END .....max_depth=40, n_estimators=50;, score=0.670 total time=   0.2s
-[CV 4/5] END ................C=1, kernel=linear;, score=0.647 total time=  14.0s
-[CV 1/5] END ..................C=1, kernel=poly;, score=0.762 total time=   8.0s
-[CV 5/5] END ..................C=1, kernel=poly;, score=0.747 total time=   7.7s
-[CV 4/5] END ...............C=1, kernel=sigmoid;, score=0.413 total time=   8.8s
-[CV 3/5] END ...................C=1, kernel=rbf;, score=0.790 total time=   8.6s
-[CV 2/5] END ...............C=10, kernel=linear;, score=0.649 total time= 1.7min
-[CV 2/5] END .................C=10, kernel=poly;, score=0.861 total time=   6.9s
-[CV 5/5] END .................C=10, kernel=poly;, score=0.837 total time=   6.8s
-[CV 3/5] END ..............C=10, kernel=sigmoid;, score=0.387 total time=   7.3s
-[CV 1/5] END ..................C=10, kernel=rbf;, score=0.901 total time=   8.2s
-[CV 4/5] END ..................C=10, kernel=rbf;, score=0.906 total time=   8.1s
-[CV 2/5] END ..............C=100, kernel=linear;, score=0.646 total time=17.5min
-[CV 4/5] END .................C=100, kernel=rbf;, score=0.925 total time=   7.2s
-[CV 1/5] END .....max_depth=30, n_estimators=40;, score=0.745 total time=   0.1s
-[CV 2/5] END .....max_depth=30, n_estimators=40;, score=0.670 total time=   0.1s
-[CV 4/5] END .....max_depth=30, n_estimators=50;, score=0.660 total time=   0.2s
-[CV 5/5] END .....max_depth=30, n_estimators=50;, score=0.596 total time=   0.2s
-[CV 4/5] END .....max_depth=35, n_estimators=40;, score=0.734 total time=   0.1s
-[CV 5/5] END .....max_depth=35, n_estimators=40;, score=0.617 total time=   0.1s
-[CV 2/5] END .....max_depth=40, n_estimators=30;, score=0.638 total time=   0.1s
-[CV 3/5] END .....max_depth=40, n_estimators=30;, score=0.702 total time=   0.1s
-[CV 5/5] END .....max_depth=40, n_estimators=40;, score=0.649 total time=   0.1s
-[CV 1/5] END .....max_depth=40, n_estimators=50;, score=0.713 total time=   0.2s
-[CV 1/5] END ................C=1, kernel=linear;, score=0.643 total time=  14.0s
-[CV 2/5] END ..................C=1, kernel=poly;, score=0.782 total time=   7.3s
-[CV 4/5] END ..................C=1, kernel=poly;, score=0.758 total time=   7.3s
-[CV 3/5] END ...............C=1, kernel=sigmoid;, score=0.408 total time=   8.7s
-[CV 2/5] END ...................C=1, kernel=rbf;, score=0.806 total time=   8.4s
-[CV 1/5] END ...............C=10, kernel=linear;, score=0.638 total time= 1.6min
-[CV 5/5] END ...............C=10, kernel=linear;, score=0.610 total time= 1.7min
-[CV 4/5] END ..............C=100, kernel=linear;, score=0.641 total time=16.3min
-[CV 3/5] END .............C=100, kernel=sigmoid;, score=0.389 total time=   6.3s
-[CV 5/5] END .............C=100, kernel=sigmoid;, score=0.355 total time=   6.3s
-[CV 2/5] END .................C=100, kernel=rbf;, score=0.913 total time=   8.1s
-[CV 5/5] END .................C=100, kernel=rbf;, score=0.898 total time=   6.9s
-PCA level: 10 SVC score: 0.6610169491525424 RF score: 0.6440677966101694 Voting score: 0.6694915254237288
-PCA level: 15 SVC score: 0.7627118644067796 RF score: 0.6779661016949152 Voting score: 0.7711864406779662
-PCA level: 20 SVC score: 0.788135593220339 RF score: 0.711864406779661 Voting score: 0.7966101694915254
-PCA level: 25 SVC score: 0.8220338983050848 RF score: 0.7457627118644068 Voting score: 0.8220338983050848
-PCA level: 30 SVC score: 0.8135593220338984 RF score: 0.7203389830508474 Voting score: 0.8389830508474576
-PCA level: 35 SVC score: 0.7711864406779662 RF score: 0.711864406779661 Voting score: 0.7796610169491526
-PCA level: 40 SVC score: 0.7203389830508474 RF score: 0.6949152542372882 Voting score: 0.7203389830508474
-PCA level: 45 SVC score: 0.6864406779661016 RF score: 0.7203389830508474 Voting score: 0.7203389830508474
-PCA level: 50 SVC score: 0.6949152542372882 RF score: 0.6779661016949152 Voting score: 0.7203389830508474
-PCA level: 52 SVC score: 0.7203389830508474 RF score: 0.7288135593220338 Voting score: 0.7627118644067796
-{"ok":true,"result":{"message_id":19514,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677044815,"text":"Italian_ done"}}
+[CV 4/5] END ...............C=10, kernel=linear;, score=0.636 total time= 1.6min
+[CV 5/5] END ...............C=10, kernel=linear;, score=0.610 total time= 1.6min
+[CV 4/5] END ..............C=100, kernel=linear;, score=0.641 total time=16.6min
+PCA level: 10 SVC score: 0.6610169491525424 RF score: 0.6440677966101694 Voting score: 0.6779661016949152
+PCA level: 15 SVC score: 0.7627118644067796 RF score: 0.6694915254237288 Voting score: 0.7796610169491526
+PCA level: 20 SVC score: 0.788135593220339 RF score: 0.6610169491525424 Voting score: 0.8050847457627118
+PCA level: 25 SVC score: 0.8220338983050848 RF score: 0.7372881355932204 Voting score: 0.8389830508474576
+PCA level: 30 SVC score: 0.8135593220338984 RF score: 0.8050847457627118 Voting score: 0.8135593220338984
+PCA level: 35 SVC score: 0.7711864406779662 RF score: 0.7457627118644068 Voting score: 0.7711864406779662
+PCA level: 40 SVC score: 0.7203389830508474 RF score: 0.6864406779661016 Voting score: 0.7288135593220338
+PCA level: 45 SVC score: 0.6864406779661016 RF score: 0.6610169491525424 Voting score: 0.7203389830508474
+PCA level: 50 SVC score: 0.6949152542372882 RF score: 0.711864406779661 Voting score: 0.711864406779661
+PCA level: 52 SVC score: 0.7203389830508474 RF score: 0.711864406779661 Voting score: 0.711864406779661
+{"ok":true,"result":{"message_id":19578,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677050731,"text":"Italian_ done"}}
 Fitting 5 folds for each of 12 candidates, totalling 60 fits
 Base SVC score: 0.9164285714285715
 Fitting 5 folds for each of 12 candidates, totalling 60 fits
-Base RF score: 0.8285714285714286
-Base Voting score: 0.9271428571428572
-{"ok":true,"result":{"message_id":19515,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677046587,"text":"Base Done for Bangla_ with 0.9271428571428572"}}
+Base RF score: 0.8235714285714286
+Base Voting score: 0.9292857142857143
+{"ok":true,"result":{"message_id":19579,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677052468,"text":"Base Done for Bangla_ with 0.9292857142857143"}}
 Processing the PCA models
-10 SVC score 0.735
-10 RF score 0.695
-10 voting score 0.7657142857142857
-{"ok":true,"result":{"message_id":19517,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677046608,"text":"Bangla_ 10 done with 0.7657142857142857"}}
-40 SVC score 0.9021428571428571
-40 RF score 0.7778571428571428
-40 voting score 0.9142857142857143
-{"ok":true,"result":{"message_id":19521,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677046637,"text":"Bangla_ 40 done with 0.9142857142857143"}}
 25 SVC score 0.9
-25 RF score 0.8007142857142857
+25 RF score 0.7957142857142857
 25 voting score 0.9021428571428571
-{"ok":true,"result":{"message_id":19518,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677046608,"text":"Bangla_ 25 done with 0.9021428571428571"}}
+{"ok":true,"result":{"message_id":19582,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677052482,"text":"Bangla_ 25 done with 0.9021428571428571"}}
+40 SVC score 0.9021428571428571
+40 RF score 0.7814285714285715
+40 voting score 0.915
+{"ok":true,"result":{"message_id":19586,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677052504,"text":"Bangla_ 40 done with 0.915"}}
+10 SVC score 0.735
+10 RF score 0.7014285714285714
+10 voting score 0.7564285714285715
+{"ok":true,"result":{"message_id":19583,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677052482,"text":"Bangla_ 10 done with 0.7564285714285715"}}
 45 SVC score 0.9014285714285715
-45 RF score 0.7814285714285715
+45 RF score 0.7685714285714286
 45 voting score 0.9128571428571428
-{"ok":true,"result":{"message_id":19522,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677046640,"text":"Bangla_ 45 done with 0.9128571428571428"}}
-15 SVC score 0.8328571428571429
-15 RF score 0.7764285714285715
-15 voting score 0.8535714285714285
-{"ok":true,"result":{"message_id":19516,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677046606,"text":"Bangla_ 15 done with 0.8535714285714285"}}
-30 SVC score 0.9042857142857142
-30 RF score 0.7921428571428571
-30 voting score 0.9064285714285715
-{"ok":true,"result":{"message_id":19519,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677046631,"text":"Bangla_ 30 done with 0.9064285714285715"}}
-50 SVC score 0.9142857142857143
-50 RF score 0.7864285714285715
-50 voting score 0.92
-{"ok":true,"result":{"message_id":19523,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677046652,"text":"Bangla_ 50 done with 0.92"}}
+{"ok":true,"result":{"message_id":19587,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677052505,"text":"Bangla_ 45 done with 0.9128571428571428"}}
 20 SVC score 0.8742857142857143
-20 RF score 0.7978571428571428
-20 voting score 0.8892857142857142
-HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot5765471758:AAFPzn2Z2gbbe0sp6yurqxwbSmYrrGanla4/sendMessage (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f95ed26a0a0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+20 RF score 0.7935714285714286
+20 voting score 0.8921428571428571
+{"ok":true,"result":{"message_id":19581,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677052480,"text":"Bangla_ 20 done with 0.8921428571428571"}}
 35 SVC score 0.9035714285714286
-35 RF score 0.7814285714285715
-35 voting score 0.9128571428571428
-{"ok":true,"result":{"message_id":19520,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677046633,"text":"Bangla_ 35 done with 0.9128571428571428"}}
+35 RF score 0.7714285714285715
+35 voting score 0.9135714285714286
+{"ok":true,"result":{"message_id":19585,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677052498,"text":"Bangla_ 35 done with 0.9135714285714286"}}
 52 SVC score 0.9114285714285715
-52 RF score 0.7864285714285715
-52 voting score 0.9235714285714286
-{"ok":true,"result":{"message_id":19524,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677046656,"text":"Bangla_ 52 done with 0.9235714285714286"}}
-PCA level: 10 SVC score: 0.735 RF score: 0.695 Voting score: 0.7657142857142857
-PCA level: 15 SVC score: 0.8328571428571429 RF score: 0.7764285714285715 Voting score: 0.8535714285714285
-PCA level: 20 SVC score: 0.8742857142857143 RF score: 0.7978571428571428 Voting score: 0.8892857142857142
-PCA level: 25 SVC score: 0.9 RF score: 0.8007142857142857 Voting score: 0.9021428571428571
-PCA level: 30 SVC score: 0.9042857142857142 RF score: 0.7921428571428571 Voting score: 0.9064285714285715
-PCA level: 35 SVC score: 0.9035714285714286 RF score: 0.7814285714285715 Voting score: 0.9128571428571428
-PCA level: 40 SVC score: 0.9021428571428571 RF score: 0.7778571428571428 Voting score: 0.9142857142857143
-PCA level: 45 SVC score: 0.9014285714285715 RF score: 0.7814285714285715 Voting score: 0.9128571428571428
-PCA level: 50 SVC score: 0.9142857142857143 RF score: 0.7864285714285715 Voting score: 0.92
-PCA level: 52 SVC score: 0.9114285714285715 RF score: 0.7864285714285715 Voting score: 0.9235714285714286
-{"ok":true,"result":{"message_id":19525,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677046656,"text":"Bangla_ done"}}
-[CV 4/5] END .....max_depth=25, n_estimators=30;, score=0.800 total time=   1.0s
-[CV 2/5] END .....max_depth=25, n_estimators=40;, score=0.797 total time=   1.4s
+52 RF score 0.7835714285714286
+52 voting score 0.9242857142857143
+{"ok":true,"result":{"message_id":19588,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677052514,"text":"Bangla_ 52 done with 0.9242857142857143"}}
+PCA level: 10 SVC score: 0.735 RF score: 0.7014285714285714 Voting score: 0.7564285714285715
+PCA level: 15 SVC score: 0.8328571428571429 RF score: 0.78 Voting score: 0.8514285714285714
+PCA level: 20 SVC score: 0.8742857142857143 RF score: 0.7935714285714286 Voting score: 0.8921428571428571
+PCA level: 25 SVC score: 0.9 RF score: 0.7957142857142857 Voting score: 0.9021428571428571
+PCA level: 30 SVC score: 0.9042857142857142 RF score: 0.7785714285714286 Voting score: 0.9057142857142857
+PCA level: 35 SVC score: 0.9035714285714286 RF score: 0.7714285714285715 Voting score: 0.9135714285714286
+PCA level: 40 SVC score: 0.9021428571428571 RF score: 0.7814285714285715 Voting score: 0.915
+PCA level: 45 SVC score: 0.9014285714285715 RF score: 0.7685714285714286 Voting score: 0.9128571428571428
+PCA level: 50 SVC score: 0.9142857142857143 RF score: 0.7835714285714286 Voting score: 0.9207142857142857
+PCA level: 52 SVC score: 0.9114285714285715 RF score: 0.7835714285714286 Voting score: 0.9242857142857143
+{"ok":true,"result":{"message_id":19590,"from":{"id":5765471758,"is_bot":true,"first_name":"notifier_deepak_model","username":"notifier_deepak_model_bot"},"chat":{"id":1479006629,"first_name":"Deepak","username":"deepakprakash2001","type":"private"},"date":1677052515,"text":"Bangla_ done"}}
+[CV 4/5] END ..............C=10, kernel=sigmoid;, score=0.362 total time=   0.1s
+[CV 1/5] END ..............C=100, kernel=linear;, score=0.681 total time=   0.1s
+[CV 2/5] END ..............C=100, kernel=linear;, score=0.670 total time=   0.1s
+[CV 4/5] END ................C=100, kernel=poly;, score=0.745 total time=   0.1s
+[CV 5/5] END ................C=100, kernel=poly;, score=0.713 total time=   0.1s
+[CV 2/5] END .................C=100, kernel=rbf;, score=0.862 total time=   0.1s
+[CV 5/5] END .................C=100, kernel=rbf;, score=0.723 total time=   0.1s
+[CV 4/5] END .....max_depth=25, n_estimators=30;, score=0.734 total time=   0.1s
+[CV 1/5] END .....max_depth=25, n_estimators=40;, score=0.734 total time=   0.1s
+[CV 1/5] END .....max_depth=25, n_estimators=50;, score=0.755 total time=   0.2s
+[CV 2/5] END .....max_depth=25, n_estimators=50;, score=0.638 total time=   0.2s
+[CV 1/5] END .....max_depth=30, n_estimators=40;, score=0.755 total time=   0.1s
+[CV 2/5] END .....max_depth=30, n_estimators=40;, score=0.628 total time=   0.2s
+[CV 4/5] END .....max_depth=30, n_estimators=50;, score=0.755 total time=   0.2s
+[CV 5/5] END .....max_depth=30, n_estimators=50;, score=0.649 total time=   0.2s
+[CV 4/5] END .....max_depth=35, n_estimators=40;, score=0.745 total time=   0.1s
+[CV 5/5] END .....max_depth=35, n_estimators=40;, score=0.638 total time=   0.1s
+[CV 2/5] END .....max_depth=40, n_estimators=30;, score=0.670 total time=   0.1s
+[CV 3/5] END .....max_depth=40, n_estimators=30;, score=0.660 total time=   0.1s
+[CV 5/5] END .....max_depth=40, n_estimators=40;, score=0.649 total time=   0.1s
+[CV 1/5] END .....max_depth=40, n_estimators=50;, score=0.713 total time=   0.2s
+[CV 1/5] END ................C=1, kernel=linear;, score=0.643 total time=  14.2s
+[CV 2/5] END ..................C=1, kernel=poly;, score=0.782 total time=   7.4s
+[CV 4/5] END ..................C=1, kernel=poly;, score=0.758 total time=   7.3s
+[CV 3/5] END ...............C=1, kernel=sigmoid;, score=0.408 total time=   8.7s
+[CV 2/5] END ...................C=1, kernel=rbf;, score=0.806 total time=   8.4s
+[CV 1/5] END ...............C=10, kernel=linear;, score=0.638 total time= 1.7min
+[CV 1/5] END .................C=10, kernel=poly;, score=0.846 total time=   5.9s
+[CV 4/5] END .................C=10, kernel=poly;, score=0.844 total time=   5.9s
+[CV 2/5] END ..............C=10, kernel=sigmoid;, score=0.379 total time=   6.3s
+[CV 5/5] END ..............C=10, kernel=sigmoid;, score=0.351 total time=   6.1s
+[CV 3/5] END ..................C=10, kernel=rbf;, score=0.904 total time=   7.3s
+[CV 1/5] END ..............C=100, kernel=linear;, score=0.647 total time=15.5min
+[CV 5/5] END ..............C=100, kernel=linear;, score=0.604 total time= 9.9min
+[CV 1/5] END .....max_depth=25, n_estimators=30;, score=0.786 total time=   1.0s
+[CV 5/5] END .....max_depth=25, n_estimators=30;, score=0.770 total time=   1.0s
+[CV 4/5] END .....max_depth=25, n_estimators=40;, score=0.788 total time=   1.4s
+[CV 3/5] END .....max_depth=25, n_estimators=50;, score=0.802 total time=   1.7s
+[CV 2/5] END .....max_depth=30, n_estimators=30;, score=0.813 total time=   1.0s
+[CV 4/5] END .....max_depth=30, n_estimators=30;, score=0.786 total time=   1.0s
+[CV 3/5] END .....max_depth=30, n_estimators=40;, score=0.791 total time=   1.4s
+[CV 2/5] END .....max_depth=30, n_estimators=50;, score=0.829 total time=   1.7s
+[CV 1/5] END .....max_depth=35, n_estimators=30;, score=0.787 total time=   1.0s
+[CV 4/5] END .....max_depth=35, n_estimators=30;, score=0.781 total time=   1.0s
+[CV 3/5] END .....max_depth=35, n_estimators=40;, score=0.796 total time=   1.4s
+[CV 2/5] END .....max_depth=35, n_estimators=50;, score=0.825 total time=   1.7s
+[CV 1/5] END .....max_depth=40, n_estimators=30;, score=0.809 total time=   1.0s
+[CV 4/5] END .....max_depth=40, n_estimators=30;, score=0.791 total time=   1.0s
+[CV 3/5] END .....max_depth=40, n_estimators=40;, score=0.811 total time=   1.4s
+[CV 2/5] END .....max_depth=40, n_estimators=50;, score=0.814 total time=   1.7s
+[CV 3/5] END .....max_depth=25, n_estimators=30;, score=0.799 total time=   1.0s
+[CV 1/5] END .....max_depth=25, n_estimators=40;, score=0.795 total time=   1.4s
+[CV 5/5] END .....max_depth=25, n_estimators=40;, score=0.783 total time=   1.4s
+[CV 4/5] END .....max_depth=25, n_estimators=50;, score=0.803 total time=   1.7s
+[CV 5/5] END .....max_depth=30, n_estimators=30;, score=0.779 total time=   1.0s
+[CV 4/5] END .....max_depth=30, n_estimators=40;, score=0.810 total time=   1.4s
+[CV 3/5] END .....max_depth=30, n_estimators=50;, score=0.808 total time=   1.7s
+[CV 2/5] END .....max_depth=35, n_estimators=30;, score=0.798 total time=   1.0s
+[CV 5/5] END .....max_depth=35, n_estimators=30;, score=0.773 total time=   1.0s
+[CV 4/5] END .....max_depth=35, n_estimators=40;, score=0.797 total time=   1.4s
+[CV 3/5] END .....max_depth=35, n_estimators=50;, score=0.820 total time=   1.7s
+[CV 2/5] END .....max_depth=40, n_estimators=30;, score=0.812 total time=   1.0s
+[CV 5/5] END .....max_depth=40, n_estimators=30;, score=0.777 total time=   1.0s
+[CV 4/5] END .....max_depth=40, n_estimators=40;, score=0.793 total time=   1.4s
+[CV 3/5] END .....max_depth=40, n_estimators=50;, score=0.804 total time=   1.6s
+[CV 4/5] END .....max_depth=25, n_estimators=30;, score=0.795 total time=   1.0s
+[CV 3/5] END .....max_depth=25, n_estimators=40;, score=0.807 total time=   1.4s
 [CV 2/5] END .....max_depth=25, n_estimators=50;, score=0.826 total time=   1.7s
-[CV 1/5] END .....max_depth=30, n_estimators=30;, score=0.787 total time=   1.0s
-[CV 3/5] END .....max_depth=30, n_estimators=30;, score=0.802 total time=   1.0s
-[CV 2/5] END .....max_depth=30, n_estimators=40;, score=0.818 total time=   1.4s
-[CV 1/5] END .....max_depth=30, n_estimators=50;, score=0.818 total time=   1.7s
-[CV 5/5] END .....max_depth=30, n_estimators=50;, score=0.806 total time=   1.7s
+[CV 5/5] END .....max_depth=25, n_estimators=50;, score=0.790 total time=   1.7s
+[CV 1/5] END .....max_depth=30, n_estimators=40;, score=0.796 total time=   1.4s
+[CV 5/5] END .....max_depth=30, n_estimators=40;, score=0.777 total time=   1.4s
+[CV 4/5] END .....max_depth=30, n_estimators=50;, score=0.821 total time=   1.7s
+[CV 3/5] END .....max_depth=35, n_estimators=30;, score=0.785 total time=   1.0s
+[CV 2/5] END .....max_depth=35, n_estimators=40;, score=0.804 total time=   1.4s
+[CV 1/5] END .....max_depth=35, n_estimators=50;, score=0.807 total time=   1.7s
+[CV 5/5] END .....max_depth=35, n_estimators=50;, score=0.792 total time=   1.7s
+[CV 1/5] END .....max_depth=40, n_estimators=40;, score=0.798 total time=   1.4s
+[CV 5/5] END .....max_depth=40, n_estimators=40;, score=0.782 total time=   1.4s
+[CV 4/5] END .....max_depth=40, n_estimators=50;, score=0.808 total time=   1.5s
+[CV 2/5] END .....max_depth=25, n_estimators=30;, score=0.803 total time=   1.0s
+[CV 2/5] END .....max_depth=25, n_estimators=40;, score=0.821 total time=   1.4s
+[CV 1/5] END .....max_depth=25, n_estimators=50;, score=0.814 total time=   1.7s
+[CV 1/5] END .....max_depth=30, n_estimators=30;, score=0.791 total time=   1.0s
+[CV 3/5] END .....max_depth=30, n_estimators=30;, score=0.797 total time=   1.0s
+[CV 2/5] END .....max_depth=30, n_estimators=40;, score=0.811 total time=   1.4s
+[CV 1/5] END .....max_depth=30, n_estimators=50;, score=0.804 total time=   1.7s
+[CV 5/5] END .....max_depth=30, n_estimators=50;, score=0.794 total time=   1.7s
 [CV 1/5] END .....max_depth=35, n_estimators=40;, score=0.805 total time=   1.4s
-[CV 5/5] END .....max_depth=35, n_estimators=40;, score=0.787 total time=   1.4s
-[CV 4/5] END .....max_depth=35, n_estimators=50;, score=0.810 total time=   1.7s
-[CV 4/5] END .....max_depth=40, n_estimators=30;, score=0.776 total time=   1.1s
-[CV 3/5] END .....max_depth=40, n_estimators=40;, score=0.816 total time=   1.4s
-[CV 2/5] END .....max_depth=40, n_estimators=50;, score=0.827 total time=   1.7s
-[CV 2/5] END .....max_depth=25, n_estimators=30;, score=0.809 total time=   1.0s
-[CV 1/5] END .....max_depth=25, n_estimators=40;, score=0.793 total time=   1.4s
-[CV 5/5] END .....max_depth=25, n_estimators=40;, score=0.782 total time=   1.4s
-[CV 4/5] END .....max_depth=25, n_estimators=50;, score=0.810 total time=   1.7s
-[CV 5/5] END .....max_depth=30, n_estimators=30;, score=0.771 total time=   1.0s
-[CV 4/5] END .....max_depth=30, n_estimators=40;, score=0.809 total time=   1.4s
-[CV 3/5] END .....max_depth=30, n_estimators=50;, score=0.814 total time=   1.7s
-[CV 2/5] END .....max_depth=35, n_estimators=30;, score=0.805 total time=   1.0s
-[CV 5/5] END .....max_depth=35, n_estimators=30;, score=0.771 total time=   1.0s
-[CV 4/5] END .....max_depth=35, n_estimators=40;, score=0.805 total time=   1.4s
-[CV 3/5] END .....max_depth=35, n_estimators=50;, score=0.812 total time=   1.7s
-[CV 2/5] END .....max_depth=40, n_estimators=30;, score=0.820 total time=   1.0s
-[CV 5/5] END .....max_depth=40, n_estimators=30;, score=0.759 total time=   1.0s
-[CV 4/5] END .....max_depth=40, n_estimators=40;, score=0.786 total time=   1.4s
-[CV 3/5] END .....max_depth=40, n_estimators=50;, score=0.813 total time=   1.7s
-[CV 3/5] END .....max_depth=25, n_estimators=30;, score=0.793 total time=   1.1s
-[CV 3/5] END .....max_depth=25, n_estimators=40;, score=0.795 total time=   1.4s
-[CV 1/5] END .....max_depth=25, n_estimators=50;, score=0.793 total time=   1.7s
-[CV 5/5] END .....max_depth=25, n_estimators=50;, score=0.794 total time=   1.7s
-[CV 1/5] END .....max_depth=30, n_estimators=40;, score=0.802 total time=   1.4s
-[CV 5/5] END .....max_depth=30, n_estimators=40;, score=0.783 total time=   1.4s
-[CV 4/5] END .....max_depth=30, n_estimators=50;, score=0.796 total time=   1.7s
-[CV 3/5] END .....max_depth=35, n_estimators=30;, score=0.789 total time=   1.0s
-[CV 2/5] END .....max_depth=35, n_estimators=40;, score=0.803 total time=   1.4s
-[CV 1/5] END .....max_depth=35, n_estimators=50;, score=0.800 total time=   1.7s
-[CV 5/5] END .....max_depth=35, n_estimators=50;, score=0.795 total time=   1.7s
-[CV 1/5] END .....max_depth=40, n_estimators=40;, score=0.796 total time=   1.4s
-[CV 5/5] END .....max_depth=40, n_estimators=40;, score=0.789 total time=   1.4s
-[CV 4/5] END .....max_depth=40, n_estimators=50;, score=0.803 total time=   1.4s
-[CV 1/5] END ..................C=10, kernel=rbf;, score=0.809 total time=   0.1s
-[CV 3/5] END ..............C=100, kernel=linear;, score=0.585 total time=   0.1s
-[CV 4/5] END ..............C=100, kernel=linear;, score=0.585 total time=   0.2s
-[CV 1/5] END .............C=100, kernel=sigmoid;, score=0.362 total time=   0.1s
-[CV 2/5] END .............C=100, kernel=sigmoid;, score=0.277 total time=   0.1s
-[CV 3/5] END .................C=100, kernel=rbf;, score=0.798 total time=   0.1s
-[CV 2/5] END .....max_depth=25, n_estimators=30;, score=0.596 total time=   0.1s
-[CV 2/5] END .....max_depth=25, n_estimators=40;, score=0.660 total time=   0.1s
-[CV 3/5] END .....max_depth=25, n_estimators=50;, score=0.681 total time=   0.2s
-[CV 4/5] END .....max_depth=25, n_estimators=50;, score=0.723 total time=   0.2s
-[CV 3/5] END .....max_depth=30, n_estimators=40;, score=0.691 total time=   0.1s
-[CV 4/5] END .....max_depth=30, n_estimators=40;, score=0.798 total time=   0.1s
-[CV 1/5] END .....max_depth=35, n_estimators=30;, score=0.681 total time=   0.1s
-[CV 2/5] END .....max_depth=35, n_estimators=30;, score=0.628 total time=   0.1s
-[CV 5/5] END .....max_depth=35, n_estimators=30;, score=0.649 total time=   0.1s
-[CV 1/5] END .....max_depth=35, n_estimators=40;, score=0.745 total time=   0.1s
-[CV 3/5] END .....max_depth=35, n_estimators=50;, score=0.681 total time=   0.2s
-[CV 4/5] END .....max_depth=35, n_estimators=50;, score=0.766 total time=   0.2s
-[CV 3/5] END .....max_depth=40, n_estimators=40;, score=0.670 total time=   0.1s
-[CV 4/5] END .....max_depth=40, n_estimators=40;, score=0.766 total time=   0.1s
-[CV 4/5] END .....max_depth=40, n_estimators=50;, score=0.766 total time=   0.1s
-[CV 2/5] END ................C=1, kernel=linear;, score=0.657 total time=  14.5s
-[CV 3/5] END ..................C=1, kernel=poly;, score=0.753 total time=   8.0s
-[CV 1/5] END ...............C=1, kernel=sigmoid;, score=0.385 total time=   9.1s
-[CV 5/5] END ...............C=1, kernel=sigmoid;, score=0.380 total time=   9.0s
-[CV 4/5] END ...................C=1, kernel=rbf;, score=0.804 total time=   8.6s
-[CV 3/5] END ...............C=10, kernel=linear;, score=0.645 total time= 1.6min
-[CV 1/5] END .................C=10, kernel=poly;, score=0.846 total time=   6.5s
-[CV 3/5] END .................C=10, kernel=poly;, score=0.847 total time=   6.8s
-[CV 1/5] END ..............C=10, kernel=sigmoid;, score=0.386 total time=   7.4s
-[CV 4/5] END ..............C=10, kernel=sigmoid;, score=0.396 total time=   7.3s
-[CV 2/5] END ..................C=10, kernel=rbf;, score=0.903 total time=   8.2s
-[CV 1/5] END ..............C=100, kernel=linear;, score=0.647 total time=16.4min
-[CV 5/5] END ..............C=100, kernel=linear;, score=0.604 total time= 9.5min
-[CV 1/5] END .....max_depth=25, n_estimators=30;, score=0.765 total time=   1.0s
-[CV 5/5] END .....max_depth=25, n_estimators=30;, score=0.782 total time=   1.0s
-[CV 4/5] END .....max_depth=25, n_estimators=40;, score=0.812 total time=   1.4s
-[CV 3/5] END .....max_depth=25, n_estimators=50;, score=0.815 total time=   1.7s
-[CV 2/5] END .....max_depth=30, n_estimators=30;, score=0.818 total time=   1.0s
-[CV 4/5] END .....max_depth=30, n_estimators=30;, score=0.782 total time=   1.0s
-[CV 3/5] END .....max_depth=30, n_estimators=40;, score=0.800 total time=   1.4s
-[CV 2/5] END .....max_depth=30, n_estimators=50;, score=0.827 total time=   1.7s
-[CV 1/5] END .....max_depth=35, n_estimators=30;, score=0.794 total time=   1.0s
-[CV 4/5] END .....max_depth=35, n_estimators=30;, score=0.787 total time=   1.0s
-[CV 3/5] END .....max_depth=35, n_estimators=40;, score=0.804 total time=   1.4s
-[CV 2/5] END .....max_depth=35, n_estimators=50;, score=0.812 total time=   1.7s
-[CV 1/5] END .....max_depth=40, n_estimators=30;, score=0.788 total time=   1.0s
-[CV 3/5] END .....max_depth=40, n_estimators=30;, score=0.779 total time=   1.0s
-[CV 2/5] END .....max_depth=40, n_estimators=40;, score=0.830 total time=   1.4s
-[CV 1/5] END .....max_depth=40, n_estimators=50;, score=0.815 total time=   1.7s
-[CV 5/5] END .....max_depth=40, n_estimators=50;, score=0.796 total time=   1.3s
+[CV 5/5] END .....max_depth=35, n_estimators=40;, score=0.789 total time=   1.4s
+[CV 4/5] END .....max_depth=35, n_estimators=50;, score=0.808 total time=   1.7s
+[CV 3/5] END .....max_depth=40, n_estimators=30;, score=0.795 total time=   1.0s
+[CV 2/5] END .....max_depth=40, n_estimators=40;, score=0.818 total time=   1.4s
+[CV 1/5] END .....max_depth=40, n_estimators=50;, score=0.812 total time=   1.7s
+[CV 5/5] END .....max_depth=40, n_estimators=50;, score=0.790 total time=   1.3s
